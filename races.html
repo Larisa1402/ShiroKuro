@@ -8,39 +8,44 @@
   :root{
     --ink:#050405; --ash:#cfc8c2; --dim:#8d847f; --red:#c4283a; --line:rgba(255,255,255,.08);
     --serif:Georgia,'Times New Roman',serif; --sans:Arial,Helvetica,sans-serif;
+    --pad:clamp(14px,4vw,28px);
   }
   *{box-sizing:border-box}
-  html,body{margin:0;padding:0;background:#050405;min-height:100%}
-  body{display:flex;justify-content:center;font-family:var(--sans);color:var(--ash)}
-  .card{width:100%;max-width:360px;min-height:100vh;background:var(--ink);overflow:hidden;position:relative}
+  html,body{margin:0;padding:0;background:var(--ink);height:100%}
+  body{font-family:var(--sans);color:var(--ash)}
+
+  /* Fits the 700px x 520px iframe slot */
+  .card{width:100%;max-width:700px;min-height:100%;margin:0 auto;background:var(--ink);overflow:hidden;position:relative}
   .card::before{content:"";position:absolute;inset:0 0 auto 0;height:140px;pointer-events:none;
     background:radial-gradient(ellipse 100% 100% at 12% 0%,rgba(158,27,42,.45),rgba(5,4,5,0) 100%)}
-  .head{position:relative;display:flex;align-items:baseline;gap:12px;padding:22px 22px 0}
+
+  .head{position:relative;display:flex;align-items:baseline;gap:12px;padding:20px var(--pad) 0}
   .kanji{font-size:28px;line-height:1;color:var(--red)}
   .title{font-family:var(--serif);font-style:italic;font-size:22px;color:#f3ede8}
   .rule{flex:1;height:1px;align-self:center;background:linear-gradient(90deg,rgba(196,40,58,.7),rgba(196,40,58,0))}
-  .tabs{position:relative;display:flex;gap:18px;padding:12px 22px 0}
+  .tabs{position:relative;display:flex;gap:18px;padding:12px var(--pad) 0}
   .tab{background:none;border:0;border-bottom:1px solid transparent;padding:0 0 4px;color:var(--dim);
     font-family:var(--serif);font-style:italic;font-size:15px;cursor:pointer}
   .tab.on{color:#f3ede8;border-bottom-color:var(--red)}
   .tab:focus-visible{outline:1px solid var(--red)}
-  .sub{position:relative;padding:10px 22px 10px;font-size:12px;color:var(--dim)}
-  #list{position:relative;min-height:120px;padding:0 22px}
+  .sub{position:relative;padding:10px var(--pad);font-size:12px;color:var(--dim)}
+  #list{position:relative;min-height:120px;padding:0 var(--pad)}
   .state{padding:34px 0;text-align:center;font-family:var(--serif);font-style:italic;color:var(--dim);font-size:15px}
-  .row{display:flex;align-items:center;gap:14px;padding:12px 8px;margin:0 -8px;border-bottom:1px solid var(--line);
+
+  .row{display:flex;align-items:center;gap:14px;padding:10px 8px;margin:0 -8px;border-bottom:1px solid var(--line);
     text-decoration:none;color:inherit;border-radius:3px;opacity:0;transform:translateY(8px);
     transition:opacity .4s ease,transform .4s ease,background .2s ease}
   .row.in{opacity:1;transform:none}
   .row:hover,.row:focus-visible{background:rgba(196,40,58,.1);outline:none}
   .row:focus-visible{box-shadow:inset 0 0 0 1px var(--red)}
-  .rank{width:16px;flex:none;text-align:center;font-family:var(--serif);font-style:italic;font-size:17px;color:var(--red)}
+  .rank{width:18px;flex:none;text-align:center;font-family:var(--serif);font-style:italic;font-size:17px;color:var(--red)}
   .av{position:relative;flex:none}
-  .avatar{width:46px;height:46px;display:block;object-fit:cover;border-radius:3px;background:#1a1416;border:1px solid rgba(196,40,58,.5)}
+  .avatar{width:42px;height:42px;display:block;object-fit:cover;border-radius:3px;background:#1a1416;border:1px solid rgba(196,40,58,.5)}
   .dot{position:absolute;top:-4px;right:-4px;width:10px;height:10px;border-radius:50%;background:var(--red);box-shadow:0 0 8px var(--red);border:2px solid var(--ink)}
   .who{flex:1;min-width:0}
   .name{font-family:var(--serif);font-size:16px;color:#f3ede8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .meta{margin-top:3px;font-size:11px;color:var(--dim);letter-spacing:.3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .score{flex:none;text-align:right;font-family:var(--serif);font-size:20px;color:#fbf5ef;text-shadow:0 0 18px rgba(196,40,58,.5)}
+  .score{flex:none;min-width:64px;text-align:right;font-family:var(--serif);font-size:20px;color:#fbf5ef;text-shadow:0 0 18px rgba(196,40,58,.5)}
   .score small{display:block;font-family:var(--sans);font-size:10px;color:var(--dim);text-shadow:none;letter-spacing:.3px}
   .up{color:#7fd69a}.down{color:#e0707c}
   .foot{position:relative;text-align:center;font-family:var(--serif);font-style:italic;font-size:12px;color:var(--dim);padding:18px 0 20px}

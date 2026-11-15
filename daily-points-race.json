@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T13:13:59.358Z",
+  "generated_at": "2026-11-15T15:55:31.035Z",
   "window_start": "2026-11-15T00:00:00.000Z",
-  "window_end": "2026-11-15T13:13:20.033Z",
-  "total_members_checked": 1025,
+  "window_end": "2026-11-15T15:54:49.461Z",
+  "total_members_checked": 1026,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -35,6 +35,60 @@
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
     {
+      "username": "simjingxuang",
+      "points": 247,
+      "wins": 64,
+      "draws": 9,
+      "games_counted": 138,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/409727691.d02c22a9.200x200o.91e66c5937a1.jpg",
+      "rapid": {
+        "points": 20,
+        "wins": 1,
+        "draws": 1
+      },
+      "blitz": {
+        "points": 45,
+        "wins": 5,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 182,
+        "wins": 58,
+        "draws": 8
+      },
+      "rapid_points": 20,
+      "blitz_points": 45,
+      "bullet_points": 182
+    },
+    {
+      "username": "xuyen1786",
+      "points": 246,
+      "wins": 20,
+      "draws": 0,
+      "games_counted": 35,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/506548327.8c023650.200x200o.3a2266bfe83f.jpg",
+      "rapid": {
+        "points": 210,
+        "wins": 14,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 27,
+        "wins": 3,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 9,
+        "wins": 3,
+        "draws": 0
+      },
+      "rapid_points": 210,
+      "blitz_points": 27,
+      "bullet_points": 9
+    },
+    {
       "username": "shadow_forest01",
       "points": 245,
       "wins": 52,
@@ -60,60 +114,6 @@
       "rapid_points": 0,
       "blitz_points": 129,
       "bullet_points": 116
-    },
-    {
-      "username": "elodietokyo",
-      "points": 225,
-      "wins": 30,
-      "draws": 7,
-      "games_counted": 66,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/190914793.a80f157b.200x200o.03355de44e0f.jpg",
-      "rapid": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 192,
-        "wins": 20,
-        "draws": 4
-      },
-      "bullet": {
-        "points": 33,
-        "wins": 10,
-        "draws": 3
-      },
-      "rapid_points": 0,
-      "blitz_points": 192,
-      "bullet_points": 33
-    },
-    {
-      "username": "kuramaball",
-      "points": 201,
-      "wins": 22,
-      "draws": 1,
-      "games_counted": 42,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/501538355.c48488d9.200x200o.e4a22ab42723.jpg",
-      "rapid": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 201,
-        "wins": 22,
-        "draws": 1
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 0,
-      "blitz_points": 201,
-      "bullet_points": 0
     }
   ]
 }

@@ -1,46 +1,124 @@
-<div style="width: 100%; max-width: 760px; margin: 0 auto; container-type: inline-size; background: #050405; color: #cfc8c2; font-family: Arial,Helvetica,sans-serif; border: 1px solid rgba(196,40,58,.25); box-shadow: 0 30px 70px rgba(0,0,0,.9); overflow: hidden;">
-<div style="position: relative; display: flex; flex-direction: column; justify-content: flex-end; min-height: clamp(300px,62cqw,380px); background: linear-gradient(180deg,rgba(5,4,5,0) 40%,#050405 98%),radial-gradient(circle at 22% 42%,#a02a3a 0,#6d1320 18%,rgba(70,10,20,0) 34%),radial-gradient(ellipse at 85% 30%,rgba(120,112,108,.35),rgba(0,0,0,0) 45%),#0a0809; padding: clamp(26px,7cqw,40px) clamp(16px,6cqw,36px) clamp(26px,7cqw,34px);">
-<div style="position: absolute; top: 20px; right: 20px; width: 42px; height: 42px; background: #c4283a; color: #fff; font-family: Georgia,'Times New Roman',serif; font-size: 17px; font-weight: bold; line-height: 1.05; display: flex; align-items: center; justify-content: center; text-align: center; border-radius: 3px; box-shadow: 0 0 18px rgba(196,40,58,.6);">白<br />黒</div>
-<div style="font-family: Georgia,'Times New Roman',serif; font-style: italic; font-size: clamp(40px,12cqw,64px); line-height: 1; color: #fbf5ef; letter-spacing: 1px; text-shadow: 0 4px 30px #000;">ShiroKuro</div>
-<div style="font-family: Georgia,'Times New Roman',serif; font-size: 16px; line-height: 1.5; color: #cfc8c2; margin-top: 12px; max-width: 520px; text-shadow: 0 2px 12px #000;">From shadow to checkmate. A chess club for the quiet and the relentless.</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px;"><a href="https://www.chess.com/clubs/upcomingevents/shirokuro?type=club-arena" target="_blank" rel="noopener" style="display: inline-block; padding: 12px 24px; background: #c4283a; color: #fff; font-size: 13px; font-weight: bold; text-decoration: none; border-radius: 2px;">Enter the arena</a><a href="https://www.chess.com/club/shirokuro/join?utm_campaign=club_invite_link&amp;utm_source=chesscom&amp;utm_medium=copy" target="_blank" rel="noopener" style="display: inline-block; padding: 11px 22px; border: 1px solid rgba(255,255,255,.4); color: #fff; font-size: 13px; text-decoration: none; border-radius: 2px;">Join the club</a></div>
+<div class="sk">
+<style>
+.sk{width:100%;max-width:760px;margin:0 auto;container-type:inline-size;background:#050405;color:#cfc8c2;font-family:Arial,Helvetica,sans-serif;border:1px solid rgba(196,40,58,.25);box-shadow:0 30px 70px rgba(0,0,0,.9);overflow:hidden}
+.sk *{box-sizing:border-box}
+.sk a{text-decoration:none}
+.sk .serif{font-family:Georgia,'Times New Roman',serif}
+.sk .pad{padding:clamp(26px,7cqw,44px) clamp(16px,6cqw,36px)}
+.sk .hero{position:relative;display:flex;flex-direction:column;justify-content:flex-end;min-height:clamp(300px,62cqw,380px);padding:clamp(26px,7cqw,40px) clamp(16px,6cqw,36px) clamp(26px,7cqw,34px);background:linear-gradient(180deg,rgba(5,4,5,0) 40%,#050405 98%),radial-gradient(circle at 22% 42%,#a02a3a 0,#6d1320 18%,rgba(70,10,20,0) 34%),radial-gradient(ellipse at 85% 30%,rgba(120,112,108,.35),rgba(0,0,0,0) 45%),#0a0809}
+.sk .seal{position:absolute;top:20px;right:20px;width:42px;height:42px;background:#c4283a;color:#fff;font:bold 17px/1.05 Georgia,serif;display:flex;align-items:center;justify-content:center;text-align:center;border-radius:3px;box-shadow:0 0 18px rgba(196,40,58,.6)}
+.sk h1{margin:0;font:italic clamp(40px,12cqw,64px)/1 Georgia,serif;color:#fbf5ef;letter-spacing:1px;text-shadow:0 4px 30px #000}
+.sk .tag{font-size:16px;line-height:1.5;margin:12px 0 0;max-width:520px;text-shadow:0 2px 12px #000}
+.sk .btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.sk .btn{display:inline-block;padding:12px 24px;font-size:13px;color:#fff;border-radius:2px;border:1px solid rgba(255,255,255,.4)}
+.sk .btn.main{background:#c4283a;border-color:#c4283a;font-weight:bold}
+.sk .btn.ghost{background:rgba(196,40,58,.15);border-color:#c4283a}
+.sk .player{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:16px;padding:18px clamp(16px,6cqw,36px);background:#0c090a;border-top:1px solid rgba(196,40,58,.35);border-bottom:1px solid rgba(255,255,255,.06)}
+.sk .player audio{width:240px;max-width:100%}
+.sk .player .np{font:italic 15px Georgia,serif;color:#f3ede8;margin-bottom:6px}
+.sk .head{display:flex;align-items:baseline;gap:12px;margin:0 0 16px}
+.sk .head .jp{font-size:24px;color:#c4283a;line-height:1}
+.sk .head .ti{font:italic 21px Georgia,serif;color:#f3ede8}
+.sk .head .ln{flex:1;min-width:12px;height:1px;align-self:center;background:linear-gradient(90deg,rgba(196,40,58,.6),rgba(196,40,58,0))}
+.sk .head .sub{font-size:11px;color:#8d847f;text-align:right}
+.sk .row{display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding:13px 2px;border-bottom:1px solid rgba(255,255,255,.08);font:16px Georgia,serif;color:#cfc8c2}
+.sk .row i{font:normal 11px Arial,sans-serif;color:#8d847f;flex:none}
+.sk .row.hot{color:#fff}.sk .row.hot i{color:#c4283a}
+.sk .frame{display:block;width:100%;max-width:700px;height:500px;border:0;margin:0 auto}
+.sk .frame.races{height:520px;border:1px solid rgba(255,255,255,.08);background:#050405}
+.sk .guides{display:flex;flex-wrap:wrap;gap:0 40px}
+.sk .guides>a{flex:1 1 240px;min-width:0}
+.sk .full{flex:1 1 100%;margin-top:14px;font-size:12px;color:#c4283a;border-bottom:1px solid #c4283a;align-self:flex-start;width:max-content}
+.sk .invite{border-left:3px solid #c4283a;padding:6px 0 6px 20px}
+.sk .invite h2{margin:0;font:italic 28px Georgia,serif;color:#f3ede8}
+.sk .invite p{font:16px/1.8 Georgia,serif;margin:10px 0 20px;max-width:440px}
+.sk .bottom{display:flex;flex-wrap:wrap;gap:32px;align-items:flex-start;border-top:1px solid rgba(255,255,255,.06)}
+.sk .bottom>div{flex:1 1 240px;min-width:0}
+.sk .members{width:256px;height:140px;max-width:100%;overflow:hidden;line-height:0;border-radius:3px}
+.sk .members iframe{width:256px;height:140px;max-width:100%;border:0;display:block;background:transparent}
+.sk .club{display:block;padding:9px 0;font:15px Georgia,serif;color:#cfc8c2;border-bottom:1px solid rgba(255,255,255,.08)}
+.sk .foot{text-align:center;font:italic 12px Georgia,serif;color:#8d847f;padding:0 0 28px;background:#0c090a}
+</style>
+
+<!-- HERO · 380px -->
+<div class="hero">
+  <div class="seal">白<br>黒</div>
+  <h1>ShiroKuro</h1>
+  <p class="tag serif">From shadow to checkmate. A chess club for the quiet and the relentless.</p>
+  <div class="btns">
+    <a class="btn main" href="https://www.chess.com/clubs/upcomingevents/shirokuro?type=club-arena" target="_blank" rel="noopener">Enter the arena</a>
+    <a class="btn" href="https://www.chess.com/club/shirokuro/join?utm_campaign=club_invite_link&amp;utm_source=chesscom&amp;utm_medium=copy" target="_blank" rel="noopener">Join the club</a>
+  </div>
 </div>
-<div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap; justify-content: center; padding: 18px clamp(16px,6cqw,36px); background: #0c090a; border-top: 1px solid rgba(196,40,58,.35); border-bottom: 1px solid rgba(255,255,255,.06);"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/VolchitsaX/php0dgcaciv0hn31wThls1.png" style="max-width: 100%; height: auto;" alt="" width="61" height="63" />
-<div style="min-width: 0;">
-<div style="font-family: Georgia,'Times New Roman',serif; font-style: italic; font-size: 15px; color: #f3ede8; margin-bottom: 6px;">Now playing</div>
-<audio style="width: 240px; max-width: 100%;" controls="controls"><source src="https://ia600504.us.archive.org/34/items/myles-smith-my-home-lyrics-bangers-only/Myles%20Smith%20-%20My%20Home%20%28Lyrics%29%20-%20BangersOnly.mp3" type="audio/mpeg" /></audio></div>
+
+<!-- MUSIC PLAYER -->
+<div class="player">
+  <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/VolchitsaX/php0dgcaciv0hn31wThls1.png" width="61" height="63" alt="" style="max-width:100%;height:auto">
+  <div style="min-width:0">
+    <div class="np">Now playing</div>
+    <audio controls><source src="https://ia600504.us.archive.org/34/items/myles-smith-my-home-lyrics-bangers-only/Myles%20Smith%20-%20My%20Home%20%28Lyrics%29%20-%20BangersOnly.mp3" type="audio/mpeg"></audio>
+  </div>
 </div>
-<div style="padding: clamp(26px,7cqw,44px) clamp(16px,6cqw,36px) clamp(26px,7cqw,44px);">
-<div style="display: flex; align-items: baseline; gap: 12px; margin: 0 0 16px;"><span style="font-size: 24px; color: #c4283a; line-height: 1;">戦</span><span style="font-family: Georgia,'Times New Roman',serif; font-style: italic; font-size: 21px; color: #f3ede8;">Play</span><span style="flex: 1; min-width: 12px; height: 1px; background: linear-gradient(90deg,rgba(196,40,58,.6),rgba(196,40,58,0)); align-self: center;"></span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; text-align: right;">Join an event</span></div>
-<a href="https://www.chess.com/clubs/upcomingevents/shirokuro?type=club-arena" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #fff; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Club arena</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #c4283a; flex: none;">Enter</span></a><a href="https://www.chess.com/clubs/upcomingevents/shirokuro?type=multi-club-arena" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #fff; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Multi-club arena</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #c4283a; flex: none;">Enter</span></a><a href="https://www.chess.com/clubs/currentevents/shirokuro?type=vote" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Vote matches</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Vote</span></a><a href="https://www.chess.com/clubs/upcomingevents/shirokuro?type=daily" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Daily matches</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Play</span></a></div>
-<div style="padding: 0 clamp(16px,6cqw,36px) clamp(26px,7cqw,44px);"><iframe width="500" height="500" style="display: block; width: 100%; max-width: 700px; height: 500px; border: 0; margin: 0 auto;" title="ShiroKuro newest shadows" src="https://k4irixuwu.github.io/Chess-/" scrolling="no"></iframe></div>
-<div style="padding: clamp(26px,7cqw,44px) clamp(16px,6cqw,36px) 0;">
-<div style="display: flex; align-items: baseline; gap: 12px; margin: 0 0 16px;"><span style="font-size: 24px; color: #c4283a; line-height: 1;">競</span><span style="font-family: Georgia,'Times New Roman',serif; font-style: italic; font-size: 21px; color: #f3ede8;">Races</span><span style="flex: 1; min-width: 12px; height: 1px; background: linear-gradient(90deg,rgba(196,40,58,.6),rgba(196,40,58,0)); align-self: center;"></span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; text-align: right;">Points and rating</span></div>
-<iframe title="ShiroKuro races" src="https://larisa1402.github.io/ShiroKuro/races.html" style="display: block; width: 100%; max-width: 700px; height: 520px; border: 1px solid rgba(255,255,255,.08); margin: 0 auto; background: #050405;" loading="lazy" referrerpolicy="no-referrer"></iframe>
+
+<!-- PLAY / EVENTS -->
+<div class="pad">
+  <div class="head"><span class="jp">戦</span><span class="ti">Play</span><span class="ln"></span><span class="sub">Join an event</span></div>
+  <a class="row hot" href="https://www.chess.com/clubs/upcomingevents/shirokuro?type=club-arena" target="_blank" rel="noopener"><span>Club arena</span><i>Enter</i></a>
+  <a class="row hot" href="https://www.chess.com/clubs/upcomingevents/shirokuro?type=multi-club-arena" target="_blank" rel="noopener"><span>Multi-club arena</span><i>Enter</i></a>
+  <a class="row" href="https://www.chess.com/clubs/currentevents/shirokuro?type=vote" target="_blank" rel="noopener"><span>Vote matches</span><i>Vote</i></a>
+  <a class="row" href="https://www.chess.com/clubs/upcomingevents/shirokuro?type=daily" target="_blank" rel="noopener"><span>Daily matches</span><i>Play</i></a>
 </div>
-<div style="padding: clamp(26px,7cqw,44px) clamp(16px,6cqw,36px) clamp(26px,7cqw,44px); background: linear-gradient(180deg,#0c090a,#050405); border-top: 1px solid rgba(255,255,255,.06);">
-<div style="display: flex; align-items: baseline; gap: 12px; margin: 0 0 16px;"><span style="font-size: 24px; color: #c4283a; line-height: 1;">掟</span><span style="font-family: Georgia,'Times New Roman',serif; font-style: italic; font-size: 21px; color: #f3ede8;">Guidelines</span><span style="flex: 1; min-width: 12px; height: 1px; background: linear-gradient(90deg,rgba(196,40,58,.6),rgba(196,40,58,0)); align-self: center;"></span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; text-align: right;">Read, learn, dominate</span></div>
-<div style="display: flex; flex-wrap: wrap; gap: 0 40px;">
-<div style="flex: 1 1 240px; min-width: 0;"><a href="https://www.chess.com/clubs/forum/view/top-10-white-openings" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Openings from white</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Read</span></a></div><div style="flex: 1 1 240px; min-width: 0;"><a href="https://www.chess.com/clubs/forum/view/20-openings-for-white" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Openings from black</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Read</span></a></div><div style="flex: 1 1 240px; min-width: 0;"><a href="https://www.chess.com/clubs/forum/view/rules-for-daily-chess-1" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Daily chess rules (RFDCM)</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Rules</span></a></div><div style="flex: 1 1 240px; min-width: 0;"><a href="https://www.chess.com/clubs/forum/view/rules-for-vote-chess-16" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Vote chess rules (RFVCM)</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Rules</span></a></div><div style="flex: 1 1 240px; min-width: 0;"><a href="https://www.chess.com/clubs/forum/view/promotion-policy-responsibilities" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Promotion policy</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Policy</span></a></div><div style="flex: 1 1 240px; min-width: 0;"><a href="https://www.chess.com/clubs/forum/view/the-shiro-gambit" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>The Shiro Gambit</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Read</span></a></div><div style="flex: 1 1 240px; min-width: 0;"><a href="https://www.chess.com/clubs/forum/view/suggestions-feedback-5" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Suggestion forum</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Post</span></a></div><div style="flex: 1 1 240px; min-width: 0;"><a href="https://www.chess.com/clubs/forum/view/advertisement-forum-142-1" target="_blank" rel="noopener" style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 13px 2px; border-bottom: 1px solid rgba(255,255,255,.08); text-decoration: none; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 16px;"><span>Advertisement forum</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: #8d847f; flex: none;">Post</span></a></div>
-<div style="flex: 1 1 100%; margin-top: 14px;"><a href="https://www.chess.com/clubs/forum/view/iea-5" target="_blank" rel="noopener" style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; color: #c4283a; text-decoration: none; border-bottom: 1px solid #c4283a;">Full guidelines thread</a></div>
+
+<!-- MAIN IFRAME · 500px -->
+<div style="padding:0 clamp(16px,6cqw,36px) clamp(26px,7cqw,44px)">
+  <iframe class="frame" title="ShiroKuro newest shadows" src="https://k4irixuwu.github.io/Chess-/" scrolling="no"></iframe>
 </div>
+
+<!-- RACES -->
+<div class="pad" style="padding-bottom:0">
+  <div class="head"><span class="jp">競</span><span class="ti">Races</span><span class="ln"></span><span class="sub">Points and rating</span></div>
+  <iframe class="frame races" title="ShiroKuro races" src="https://larisa1402.github.io/ShiroKuro/races.html" loading="lazy" referrerpolicy="no-referrer"></iframe>
 </div>
-<div style="padding: clamp(26px,7cqw,44px) clamp(16px,6cqw,36px) clamp(26px,7cqw,44px);">
-<div style="border-left: 3px solid #c4283a; padding: 6px 0 6px 20px;">
-<div style="font-family: Georgia,'Times New Roman',serif; font-style: italic; font-size: 28px; color: #f3ede8;">Invite a soul</div>
-<div style="font-family: Georgia,'Times New Roman',serif; font-size: 16px; line-height: 1.8; color: #cfc8c2; margin: 10px 0 20px; max-width: 440px;">Every player carries a story. Every move leaves a mark. Bring someone worthy to the board.</div>
-<a href="https://www.chess.com/club/shirokuro/join?utm_campaign=club_invite_link&amp;utm_source=chesscom&amp;utm_medium=copy" target="_blank" rel="noopener" style="display: inline-block; padding: 12px 26px; border: 1px solid #c4283a; color: #fff; font-size: 13px; text-decoration: none; border-radius: 2px; background: rgba(196,40,58,.15);">Open the gate</a></div>
+
+<!-- GUIDELINES -->
+<div class="pad" style="background:linear-gradient(180deg,#0c090a,#050405);border-top:1px solid rgba(255,255,255,.06);margin-top:clamp(26px,7cqw,44px)">
+  <div class="head"><span class="jp">掟</span><span class="ti">Guidelines</span><span class="ln"></span><span class="sub">Read, learn, dominate</span></div>
+  <div class="guides">
+    <a class="row" href="https://www.chess.com/clubs/forum/view/top-10-white-openings" target="_blank" rel="noopener"><span>Openings from white</span><i>Read</i></a>
+    <a class="row" href="https://www.chess.com/clubs/forum/view/20-openings-for-white" target="_blank" rel="noopener"><span>Openings from black</span><i>Read</i></a>
+    <a class="row" href="https://www.chess.com/clubs/forum/view/rules-for-daily-chess-1" target="_blank" rel="noopener"><span>Daily chess rules (RFDCM)</span><i>Rules</i></a>
+    <a class="row" href="https://www.chess.com/clubs/forum/view/rules-for-vote-chess-16" target="_blank" rel="noopener"><span>Vote chess rules (RFVCM)</span><i>Rules</i></a>
+    <a class="row" href="https://www.chess.com/clubs/forum/view/promotion-policy-responsibilities" target="_blank" rel="noopener"><span>Promotion policy</span><i>Policy</i></a>
+    <a class="row" href="https://www.chess.com/clubs/forum/view/the-shiro-gambit" target="_blank" rel="noopener"><span>The Shiro Gambit</span><i>Read</i></a>
+    <a class="row" href="https://www.chess.com/clubs/forum/view/suggestions-feedback-5" target="_blank" rel="noopener"><span>Suggestion forum</span><i>Post</i></a>
+    <a class="row" href="https://www.chess.com/clubs/forum/view/advertisement-forum-142-1" target="_blank" rel="noopener"><span>Advertisement forum</span><i>Post</i></a>
+    <a class="full" href="https://www.chess.com/clubs/forum/view/iea-5" target="_blank" rel="noopener">Full guidelines thread</a>
+  </div>
 </div>
-<div style="padding: clamp(26px,7cqw,44px) clamp(16px,6cqw,36px) clamp(26px,7cqw,44px); border-top: 1px solid rgba(255,255,255,.06); display: flex; flex-wrap: wrap; gap: 32px; align-items: flex-start;">
-<div style="flex: 1 1 256px; min-width: 0;">
-<div style="display: flex; align-items: baseline; gap: 12px; margin: 0 0 16px;"><span style="font-size: 24px; color: #c4283a; line-height: 1;">衆</span><span style="font-family: Georgia,'Times New Roman',serif; font-style: italic; font-size: 21px; color: #f3ede8;">Members</span><span style="flex: 1; min-width: 12px; height: 1px; background: linear-gradient(90deg,rgba(196,40,58,.6),rgba(196,40,58,0)); align-self: center;"></span></div>
-<div style="width: 256px; height: 140px; max-width: 100%; overflow: hidden; line-height: 0; border-radius: 3px;"><iframe width="256" height="140" style="width: 256px; max-width: 100%; height: 140px; border: none; display: block; background: transparent;" src="https://k4irixuwu.github.io/member-count-/" scrolling="no" loading="lazy" referrerpolicy="no-referrer"></iframe></div>
+
+<!-- INVITE -->
+<div class="pad">
+  <div class="invite">
+    <h2>Invite a soul</h2>
+    <p>Every player carries a story. Every move leaves a mark. Bring someone worthy to the board.</p>
+    <a class="btn ghost" href="https://www.chess.com/club/shirokuro/join?utm_campaign=club_invite_link&amp;utm_source=chesscom&amp;utm_medium=copy" target="_blank" rel="noopener">Open the gate</a>
+  </div>
 </div>
-<div style="flex: 1 1 240px; min-width: 0;">
-<div style="display: flex; align-items: baseline; gap: 12px; margin: 0 0 16px;"><span style="font-size: 24px; color: #c4283a; line-height: 1;">盟</span><span style="font-family: Georgia,'Times New Roman',serif; font-style: italic; font-size: 21px; color: #f3ede8;">Other clubs</span><span style="flex: 1; min-width: 12px; height: 1px; background: linear-gradient(90deg,rgba(196,40,58,.6),rgba(196,40,58,0)); align-self: center;"></span></div>
-<a href="https://www.chess.com/club/group-bce8a9be0e57a6641711f1f5d431e995/join?utm_campaign=club_invite_link&amp;utm_source=chesscom&amp;utm_medium=copy" target="_blank" rel="noopener" style="display: block; padding: 9px 0; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 15px; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.08);">𝔸𝔽𝕋𝔼ℝ ℍ𝕆𝕌ℝ</a><a href="https://www.chess.com/club/group-c5e63fa785bd10ba5e9e307e1be789a8/join?utm_campaign=club_invite_link&amp;utm_source=chesscom&amp;utm_medium=copy" target="_blank" rel="noopener" style="display: block; padding: 9px 0; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 15px; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.08);">𝔓𝔦𝔯𝔞𝔱𝔢𝔰 𝔬𝔣 𝔱𝔥𝔢 ℭ𝔞𝔯𝔦𝔟𝔟𝔢𝔞𝔫</a><a href="https://lichess.org/team/shirokuro" target="_blank" rel="noopener" style="display: block; padding: 9px 0; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 15px; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.08);">ShiroKuro on Lichess</a><a href="https://worldchess.com/community/shiro" target="_blank" rel="noopener" style="display: block; padding: 9px 0; color: #cfc8c2; font-family: Georgia,'Times New Roman',serif; font-size: 15px; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.08);">ShiroKuro on World Chess</a></div>
+
+<!-- MEMBERS · 256 x 140 / OTHER CLUBS -->
+<div class="pad bottom">
+  <div style="flex-basis:256px">
+    <div class="head"><span class="jp">衆</span><span class="ti">Members</span><span class="ln"></span></div>
+    <div class="members"><iframe title="Member count" src="https://k4irixuwu.github.io/member-count-/" scrolling="no" loading="lazy" referrerpolicy="no-referrer"></iframe></div>
+  </div>
+  <div>
+    <div class="head"><span class="jp">盟</span><span class="ti">Other clubs</span><span class="ln"></span></div>
+    <a class="club" href="https://www.chess.com/club/group-bce8a9be0e57a6641711f1f5d431e995/join?utm_campaign=club_invite_link&amp;utm_source=chesscom&amp;utm_medium=copy" target="_blank" rel="noopener">𝔸𝔽𝕋𝔼ℝ ℍ𝕆𝕌ℝ</a>
+    <a class="club" href="https://www.chess.com/club/group-c5e63fa785bd10ba5e9e307e1be789a8/join?utm_campaign=club_invite_link&amp;utm_source=chesscom&amp;utm_medium=copy" target="_blank" rel="noopener">𝔓𝔦𝔯𝔞𝔱𝔢𝔰 𝔬𝔣 𝔱𝔥𝔢 ℭ𝔞𝔯𝔦𝔟𝔟𝔢𝔞𝔫</a>
+    <a class="club" href="https://lichess.org/team/shirokuro" target="_blank" rel="noopener">ShiroKuro on Lichess</a>
+    <a class="club" href="https://worldchess.com/community/shiro" target="_blank" rel="noopener">ShiroKuro on World Chess</a>
+  </div>
 </div>
-<div style="text-align: center; font-family: Georgia,'Times New Roman',serif; font-style: italic; font-size: 12px; color: #8d847f; padding: 0 0 28px; background: #0c090a;">The art of black and white</div>
+
+<div class="foot">The art of black and white</div>
 </div>
-<div onclick="window.scrollTo({top:0,behavior:'smooth'});" style="position: fixed; right: 16px; width: 42px; height: 42px; border-radius: 3px; background: #050405; border: 1px solid rgba(196,40,58,.6); display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 9999; bottom: 72px;"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Duo-Owl/phpsh39iams6ci97r6KPiP.png" style="filter: grayscale(100%) brightness(1.2);" alt="" width="20" height="20" /></div>
-<div onclick="window.scrollTo({top:document.body.scrollHeight,behavior:'smooth'});" style="position: fixed; right: 16px; width: 42px; height: 42px; border-radius: 3px; background: #050405; border: 1px solid rgba(196,40,58,.6); display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 9999; bottom: 22px;"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Duo-Owl/phpmnilmuhl6vdracKfW5g.png" style="filter: grayscale(100%) brightness(1.2);" alt="" width="20" height="20" /></div>

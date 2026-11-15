@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ShiroKuro Races</title>
+<style>
+  :root{
+    --ink:#050405; --ash:#cfc8c2; --dim:#8d847f; --red:#c4283a; --line:rgba(255,255,255,.08);
+    --serif:Georgia,'Times New Roman',serif; --sans:Arial,Helvetica,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#050405;min-height:100%}
+  body{display:flex;justify-content:center;font-family:var(--sans);color:var(--ash)}
+  .card{width:100%;max-width:360px;min-height:100vh;background:var(--ink);overflow:hidden;position:relative}
+  .card::before{content:"";position:absolute;inset:0 0 auto 0;height:140px;pointer-events:none;
+    background:radial-gradient(ellipse 100% 100% at 12% 0%,rgba(158,27,42,.45),rgba(5,4,5,0) 100%)}
+  .head{position:relative;display:flex;align-items:baseline;gap:12px;padding:22px 22px 0}
+  .kanji{font-size:28px;line-height:1;color:var(--red)}
+  .title{font-family:var(--serif);font-style:italic;font-size:22px;color:#f3ede8}
+  .rule{flex:1;height:1px;align-self:center;background:linear-gradient(90deg,rgba(196,40,58,.7),rgba(196,40,58,0))}
+  .tabs{position:relative;display:flex;gap:18px;padding:12px 22px 0}
+  .tab{background:none;border:0;border-bottom:1px solid transparent;padding:0 0 4px;color:var(--dim);
+    font-family:var(--serif);font-style:italic;font-size:15px;cursor:pointer}
+  .tab.on{color:#f3ede8;border-bottom-color:var(--red)}
+  .tab:focus-visible{outline:1px solid var(--red)}
+  .sub{position:relative;padding:10px 22px 10px;font-size:12px;color:var(--dim)}
+  #list{position:relative;min-height:120px;padding:0 22px}
+  .state{padding:34px 0;text-align:center;font-family:var(--serif);font-style:italic;color:var(--dim);font-size:15px}
+  .row{display:flex;align-items:center;gap:14px;padding:12px 8px;margin:0 -8px;border-bottom:1px solid var(--line);
+    text-decoration:none;color:inherit;border-radius:3px;opacity:0;transform:translateY(8px);
+    transition:opacity .4s ease,transform .4s ease,background .2s ease}
+  .row.in{opacity:1;transform:none}
+  .row:hover,.row:focus-visible{background:rgba(196,40,58,.1);outline:none}
+  .row:focus-visible{box-shadow:inset 0 0 0 1px var(--red)}
+  .rank{width:16px;flex:none;text-align:center;font-family:var(--serif);font-style:italic;font-size:17px;color:var(--red)}
+  .av{position:relative;flex:none}
+  .avatar{width:46px;height:46px;display:block;object-fit:cover;border-radius:3px;background:#1a1416;border:1px solid rgba(196,40,58,.5)}
+  .dot{position:absolute;top:-4px;right:-4px;width:10px;height:10px;border-radius:50%;background:var(--red);box-shadow:0 0 8px var(--red);border:2px solid var(--ink)}
+  .who{flex:1;min-width:0}
+  .name{font-family:var(--serif);font-size:16px;color:#f3ede8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .meta{margin-top:3px;font-size:11px;color:var(--dim);letter-spacing:.3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .score{flex:none;text-align:right;font-family:var(--serif);font-size:20px;color:#fbf5ef;text-shadow:0 0 18px rgba(196,40,58,.5)}
+  .score small{display:block;font-family:var(--sans);font-size:10px;color:var(--dim);text-shadow:none;letter-spacing:.3px}
+  .up{color:#7fd69a}.down{color:#e0707c}
+  .foot{position:relative;text-align:center;font-family:var(--serif);font-style:italic;font-size:12px;color:var(--dim);padding:18px 0 20px}
+  @media (prefers-reduced-motion:reduce){.row{transition:none;opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<main class="card" aria-labelledby="t">
+  <div class="head">
+    <span class="kanji" aria-hidden="true">競</span>
+    <span class="title" id="t">The races</span>
+    <span class="rule"></span>
+  </div>
+  <div class="tabs" role="tablist">
+    <button class="tab on" role="tab" data-t="daily">Points</button>
+    <button class="tab" role="tab" data-t="weekly">Rating</button>
+  </div>
+  <div class="sub" id="sub">&nbsp;</div>
+  <div id="list" aria-live="polite"><div class="state">Summoning…</div></div>
+  <div class="foot">The art of black and white</div>
+</main>
+<script>
+const FALLBACK = "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/default-pawn.png";
+const list = document.getElementById("list"), sub = document.getElementById("sub");
+const cache = {};
+let current = "daily";
+
+const signed = v => v == null ? "–" : (v > 0 ? "+" + v : String(v));
+const tone = v => v > 0 ? "up" : v < 0 ? "down" : "";
+const safeImg = u => /^https:\/\/images\.chesscomfiles\.com\//.test(u || "") ? u : FALLBACK;
+const when = s => { const d = new Date(s); return isNaN(d) ? "" : d.toUTCString().slice(5, 22) + " UTC"; };
+
+function el(tag, cls, txt){
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (txt != null) e.textContent = txt;
+  return e;
+}
+
+function makeRow(p, i, metaText, big, small, bigTone){
+  const a = el("a", "row");
+  a.href = "https://www.chess.com/member/" + encodeURIComponent(p.username);
+  a.target = "_blank"; a.rel = "noopener";
+
+  const img = el("img", "avatar");
+  img.alt = ""; img.src = safeImg(p.avatar);
+  img.onerror = () => { img.onerror = null; img.src = FALLBACK; };
+  const av = el("div", "av"); av.append(img);
+  if (i === 0){ const d = el("span", "dot"); d.title = "Leading"; av.append(d); }
+
+  const who = el("div", "who");
+  who.append(el("div", "name", "@" + p.username), el("div", "meta", metaText));
+
+  const score = el("div", "score " + (bigTone || ""), big);
+  score.append(el("small", null, small));
+
+  a.append(el("div", "rank", i + 1), av, who, score);
+  setTimeout(() => a.classList.add("in"), i * 90);
+  return a;
+}
+
+function render(which, d){
+  if (which !== current) return;
+  list.replaceChildren();
+  if (!d){ sub.textContent = "\u00a0"; list.append(el("div", "state", "The shadows are out of reach. Try again soon.")); return; }
+  sub.textContent = which === "daily"
+    ? (d.title || "Points race") + " · updated " + when(d.generated_at)
+    : "Week of " + (d.weekStartedAt || "").slice(0, 10) + " · updated " + when(d.updatedAt);
+  if (!d.players || !d.players.length){
+    list.append(el("div", "state", which === "daily" ? "The race is just beginning…" : "A new week begins. Rating changes appear soon."));
+    return;
+  }
+  const frag = document.createDocumentFragment();
+  d.players.forEach((p, i) => {
+    frag.append(which === "daily"
+      ? makeRow(p, i, "Rapid " + p.rapid_points + " · Blitz " + p.blitz_points + " · Bullet " + p.bullet_points, p.points, "points")
+      : makeRow(p, i, "Rapid " + signed(p.rapidChange) + " · Blitz " + signed(p.blitzChange) + " · Bullet " + signed(p.bulletChange), signed(p.totalChange), "rating", tone(p.totalChange)));
+  });
+  list.append(frag);
+}
+
+async function show(which){
+  current = which;
+  const file = which === "daily" ? "daily-points-race.json" : "weekly-rating-race.json";
+  try{
+    const res = await fetch(file, { cache: "no-cache" });
+    if (!res.ok) throw new Error(res.status);
+    cache[which] = await res.json();
+  }catch(e){ cache[which] = null; }
+  render(which, cache[which]);
+}
+
+document.querySelectorAll(".tab").forEach(b => b.onclick = () => {
+  document.querySelectorAll(".tab").forEach(x => x.classList.toggle("on", x === b));
+  show(b.dataset.t);
+});
+show("daily");
+setInterval(() => show(current), 600000);
+</script>
+</body>
+</html>

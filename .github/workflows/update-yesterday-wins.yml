@@ -1,0 +1,35 @@
+name: Update Points Race
+
+on:
+  schedule:
+    # Runs at 06:17 UTC, then again every 3 hours
+    - cron: "17 6,9,12,15,18,21 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-wins:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get repo files
+        uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Count daily points race
+        run: node scripts/update-yesterday-wins.mjs
+
+      - name: Save updated result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add daily-points-race.json
+          git diff --cached --quiet || git commit -m "Update daily points race"
+          git push

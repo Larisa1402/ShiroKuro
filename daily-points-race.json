@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T19:16:10.660Z",
+  "generated_at": "2026-11-16T22:04:27.086Z",
   "window_start": "2026-11-16T00:00:00.000Z",
-  "window_end": "2026-11-16T19:15:32.482Z",
-  "total_members_checked": 1031,
+  "window_end": "2026-11-16T22:03:46.075Z",
+  "total_members_checked": 1032,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,16 +36,16 @@
   "players": [
     {
       "username": "seswww",
-      "points": 470,
-      "wins": 40,
-      "draws": 4,
-      "games_counted": 72,
+      "points": 490,
+      "wins": 41,
+      "draws": 5,
+      "games_counted": 74,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 340,
-        "wins": 22,
-        "draws": 2
+        "points": 360,
+        "wins": 23,
+        "draws": 3
       },
       "blitz": {
         "points": 111,
@@ -57,43 +57,16 @@
         "wins": 6,
         "draws": 1
       },
-      "rapid_points": 340,
+      "rapid_points": 360,
       "blitz_points": 111,
       "bullet_points": 19
     },
     {
-      "username": "rabi007007",
-      "points": 255,
-      "wins": 16,
-      "draws": 3,
-      "games_counted": 37,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/289023697.a2dafba1.200x200o.064ebc8549b2.jpg",
-      "rapid": {
-        "points": 255,
-        "wins": 16,
-        "draws": 3
-      },
-      "blitz": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 255,
-      "blitz_points": 0,
-      "bullet_points": 0
-    },
-    {
       "username": "ahmdsaid111",
-      "points": 237,
-      "wins": 26,
+      "points": 309,
+      "wins": 34,
       "draws": 1,
-      "games_counted": 51,
+      "games_counted": 71,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29310220.c3b201bf.200x200o.2ec018e1a5cd.gif",
       "rapid": {
@@ -102,8 +75,8 @@
         "draws": 0
       },
       "blitz": {
-        "points": 237,
-        "wins": 26,
+        "points": 309,
+        "wins": 34,
         "draws": 1
       },
       "bullet": {
@@ -112,8 +85,35 @@
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 237,
+      "blitz_points": 309,
       "bullet_points": 0
+    },
+    {
+      "username": "armandonavo15",
+      "points": 285,
+      "wins": 60,
+      "draws": 5,
+      "games_counted": 93,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/465412694.a34239d8.200x200o.034823537ea7.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 150,
+        "wins": 16,
+        "draws": 2
+      },
+      "bullet": {
+        "points": 135,
+        "wins": 44,
+        "draws": 3
+      },
+      "rapid_points": 0,
+      "blitz_points": 150,
+      "bullet_points": 135
     }
   ]
 }

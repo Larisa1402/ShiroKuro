@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T09:03:16.625Z",
+  "generated_at": "2026-11-16T10:48:41.481Z",
   "window_start": "2026-11-16T00:00:00.000Z",
-  "window_end": "2026-11-16T09:02:40.420Z",
-  "total_members_checked": 1030,
+  "window_end": "2026-11-16T10:48:03.298Z",
+  "total_members_checked": 1031,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -35,6 +35,33 @@
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
     {
+      "username": "seswww",
+      "points": 316,
+      "wins": 22,
+      "draws": 2,
+      "games_counted": 40,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
+      "rapid": {
+        "points": 310,
+        "wins": 20,
+        "draws": 2
+      },
+      "blitz": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 6,
+        "wins": 2,
+        "draws": 0
+      },
+      "rapid_points": 310,
+      "blitz_points": 0,
+      "bullet_points": 6
+    },
+    {
       "username": "rabi007007",
       "points": 255,
       "wins": 16,
@@ -60,33 +87,6 @@
       "rapid_points": 255,
       "blitz_points": 0,
       "bullet_points": 0
-    },
-    {
-      "username": "seswww",
-      "points": 221,
-      "wins": 16,
-      "draws": 1,
-      "games_counted": 29,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
-      "rapid": {
-        "points": 215,
-        "wins": 14,
-        "draws": 1
-      },
-      "blitz": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 6,
-        "wins": 2,
-        "draws": 0
-      },
-      "rapid_points": 215,
-      "blitz_points": 0,
-      "bullet_points": 6
     },
     {
       "username": "taiwaneseturtlerepublic",

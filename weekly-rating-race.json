@@ -1,7 +1,13 @@
 {
   "status": "baseline-created",
+  "updatedAt": "2026-11-16T01:41:46.582Z",
+  "weekStartedAt": "2026-11-15T00:00:00.000Z",
+  "weekEndsAt": "2026-11-22T00:00:00.000Z",
   "resetRule": "Every Sunday at 00:00 UTC",
   "minimumAccountAgeDays": 90,
   "minimumGamesPerCountedFormat": 100,
+  "checkedMembers": 1028,
+  "failedMembers": 0,
+  "eligibleMembers": 761,
   "players": []
 }

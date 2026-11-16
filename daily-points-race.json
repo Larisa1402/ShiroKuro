@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T15:26:20.713Z",
+  "generated_at": "2026-11-16T19:16:10.660Z",
   "window_start": "2026-11-16T00:00:00.000Z",
-  "window_end": "2026-11-16T15:25:37.079Z",
+  "window_end": "2026-11-16T19:15:32.482Z",
   "total_members_checked": 1031,
   "scoring": {
     "rapid": {
@@ -36,20 +36,20 @@
   "players": [
     {
       "username": "seswww",
-      "points": 437,
-      "wins": 37,
+      "points": 470,
+      "wins": 40,
       "draws": 4,
-      "games_counted": 66,
+      "games_counted": 72,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 325,
-        "wins": 21,
+        "points": 340,
+        "wins": 22,
         "draws": 2
       },
       "blitz": {
-        "points": 93,
-        "wins": 10,
+        "points": 111,
+        "wins": 12,
         "draws": 1
       },
       "bullet": {
@@ -57,8 +57,8 @@
         "wins": 6,
         "draws": 1
       },
-      "rapid_points": 325,
-      "blitz_points": 93,
+      "rapid_points": 340,
+      "blitz_points": 111,
       "bullet_points": 19
     },
     {
@@ -90,10 +90,10 @@
     },
     {
       "username": "ahmdsaid111",
-      "points": 201,
-      "wins": 22,
+      "points": 237,
+      "wins": 26,
       "draws": 1,
-      "games_counted": 42,
+      "games_counted": 51,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29310220.c3b201bf.200x200o.2ec018e1a5cd.gif",
       "rapid": {
@@ -102,8 +102,8 @@
         "draws": 0
       },
       "blitz": {
-        "points": 201,
-        "wins": 22,
+        "points": 237,
+        "wins": 26,
         "draws": 1
       },
       "bullet": {
@@ -112,7 +112,7 @@
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 201,
+      "blitz_points": 237,
       "bullet_points": 0
     }
   ]

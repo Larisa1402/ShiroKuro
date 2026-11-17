@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T13:30:21.180Z",
+  "generated_at": "2026-11-17T16:14:20.165Z",
   "window_start": "2026-11-17T00:00:00.000Z",
-  "window_end": "2026-11-17T13:29:39.340Z",
+  "window_end": "2026-11-17T16:13:45.784Z",
   "total_members_checked": 1036,
   "scoring": {
     "rapid": {
@@ -89,31 +89,31 @@
       "bullet_points": 242
     },
     {
-      "username": "awos78z",
-      "points": 215,
-      "wins": 14,
+      "username": "myself_dodge",
+      "points": 225,
+      "wins": 34,
       "draws": 1,
-      "games_counted": 26,
+      "games_counted": 54,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/504131751.9732c5ed.200x200o.6f16445cdcfa.png",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/495219739.29de5ed9.200x200o.f031a220a69f.png",
       "rapid": {
-        "points": 215,
-        "wins": 14,
-        "draws": 1
+        "points": 30,
+        "wins": 2,
+        "draws": 0
       },
       "blitz": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
+        "points": 147,
+        "wins": 16,
+        "draws": 1
       },
       "bullet": {
-        "points": 0,
-        "wins": 0,
+        "points": 48,
+        "wins": 16,
         "draws": 0
       },
-      "rapid_points": 215,
-      "blitz_points": 0,
-      "bullet_points": 0
+      "rapid_points": 30,
+      "blitz_points": 147,
+      "bullet_points": 48
     }
   ]
 }

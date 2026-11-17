@@ -4,11 +4,11 @@
   "club": "shirokuro",
   "mode": "race",
   "title": "Today's Points Race",
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T22:04:27.086Z",
-  "window_start": "2026-11-16T00:00:00.000Z",
-  "window_end": "2026-11-16T22:03:46.075Z",
-  "total_members_checked": 1032,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T07:38:25.717Z",
+  "window_start": "2026-11-17T00:00:00.000Z",
+  "window_end": "2026-11-17T07:37:43.812Z",
+  "total_members_checked": 1034,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,84 +36,84 @@
   "players": [
     {
       "username": "seswww",
-      "points": 490,
-      "wins": 41,
-      "draws": 5,
-      "games_counted": 74,
+      "points": 277,
+      "wins": 20,
+      "draws": 3,
+      "games_counted": 38,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 360,
-        "wins": 23,
-        "draws": 3
+        "points": 220,
+        "wins": 14,
+        "draws": 2
       },
       "blitz": {
-        "points": 111,
-        "wins": 12,
-        "draws": 1
-      },
-      "bullet": {
-        "points": 19,
+        "points": 57,
         "wins": 6,
         "draws": 1
       },
-      "rapid_points": 360,
-      "blitz_points": 111,
-      "bullet_points": 19
-    },
-    {
-      "username": "ahmdsaid111",
-      "points": 309,
-      "wins": 34,
-      "draws": 1,
-      "games_counted": 71,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29310220.c3b201bf.200x200o.2ec018e1a5cd.gif",
-      "rapid": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 309,
-        "wins": 34,
-        "draws": 1
-      },
       "bullet": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 0,
-      "blitz_points": 309,
+      "rapid_points": 220,
+      "blitz_points": 57,
       "bullet_points": 0
     },
     {
-      "username": "armandonavo15",
-      "points": 285,
-      "wins": 60,
-      "draws": 5,
-      "games_counted": 93,
+      "username": "rhovar",
+      "points": 153,
+      "wins": 14,
+      "draws": 1,
+      "games_counted": 21,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/465412694.a34239d8.200x200o.034823537ea7.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/380116025.58f0daea.200x200o.dbcccf324f8c.jpg",
       "rapid": {
+        "points": 75,
+        "wins": 5,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 75,
+        "wins": 8,
+        "draws": 1
+      },
+      "bullet": {
+        "points": 3,
+        "wins": 1,
+        "draws": 0
+      },
+      "rapid_points": 75,
+      "blitz_points": 75,
+      "bullet_points": 3
+    },
+    {
+      "username": "awos78z",
+      "points": 140,
+      "wins": 9,
+      "draws": 1,
+      "games_counted": 19,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/504131751.9732c5ed.200x200o.6f16445cdcfa.png",
+      "rapid": {
+        "points": 140,
+        "wins": 9,
+        "draws": 1
+      },
+      "blitz": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
-      "blitz": {
-        "points": 150,
-        "wins": 16,
-        "draws": 2
-      },
       "bullet": {
-        "points": 135,
-        "wins": 44,
-        "draws": 3
+        "points": 0,
+        "wins": 0,
+        "draws": 0
       },
-      "rapid_points": 0,
-      "blitz_points": 150,
-      "bullet_points": 135
+      "rapid_points": 140,
+      "blitz_points": 0,
+      "bullet_points": 0
     }
   ]
 }

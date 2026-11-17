@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:14:20.165Z",
+  "generated_at": "2026-11-17T22:10:37.316Z",
   "window_start": "2026-11-17T00:00:00.000Z",
-  "window_end": "2026-11-17T16:13:45.784Z",
-  "total_members_checked": 1036,
+  "window_end": "2026-11-17T22:09:59.556Z",
+  "total_members_checked": 1034,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,16 +36,16 @@
   "players": [
     {
       "username": "seswww",
-      "points": 277,
-      "wins": 20,
-      "draws": 3,
-      "games_counted": 38,
+      "points": 437,
+      "wins": 30,
+      "draws": 5,
+      "games_counted": 62,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 220,
-        "wins": 14,
-        "draws": 2
+        "points": 380,
+        "wins": 24,
+        "draws": 4
       },
       "blitz": {
         "points": 57,
@@ -57,16 +57,43 @@
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 220,
+      "rapid_points": 380,
       "blitz_points": 57,
       "bullet_points": 0
     },
     {
+      "username": "mattisan2011",
+      "points": 357,
+      "wins": 38,
+      "draws": 7,
+      "games_counted": 68,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/64450570.3c45c8d9.200x200o.d74826cc07f7.png",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 354,
+        "wins": 37,
+        "draws": 7
+      },
+      "bullet": {
+        "points": 3,
+        "wins": 1,
+        "draws": 0
+      },
+      "rapid_points": 0,
+      "blitz_points": 354,
+      "bullet_points": 3
+    },
+    {
       "username": "shadow_forest01",
-      "points": 242,
-      "wins": 76,
-      "draws": 14,
-      "games_counted": 161,
+      "points": 320,
+      "wins": 101,
+      "draws": 17,
+      "games_counted": 210,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/464803040.5a54c5d9.200x200o.6a7caacfb6f2.jpg",
       "rapid": {
@@ -80,40 +107,13 @@
         "draws": 0
       },
       "bullet": {
-        "points": 242,
-        "wins": 76,
-        "draws": 14
+        "points": 320,
+        "wins": 101,
+        "draws": 17
       },
       "rapid_points": 0,
       "blitz_points": 0,
-      "bullet_points": 242
-    },
-    {
-      "username": "myself_dodge",
-      "points": 225,
-      "wins": 34,
-      "draws": 1,
-      "games_counted": 54,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/495219739.29de5ed9.200x200o.f031a220a69f.png",
-      "rapid": {
-        "points": 30,
-        "wins": 2,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 147,
-        "wins": 16,
-        "draws": 1
-      },
-      "bullet": {
-        "points": 48,
-        "wins": 16,
-        "draws": 0
-      },
-      "rapid_points": 30,
-      "blitz_points": 147,
-      "bullet_points": 48
+      "bullet_points": 320
     }
   ]
 }

@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T07:38:25.717Z",
+  "generated_at": "2026-11-17T10:24:22.248Z",
   "window_start": "2026-11-17T00:00:00.000Z",
-  "window_end": "2026-11-17T07:37:43.812Z",
-  "total_members_checked": 1034,
+  "window_end": "2026-11-17T10:23:41.670Z",
+  "total_members_checked": 1035,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -62,6 +62,33 @@
       "bullet_points": 0
     },
     {
+      "username": "awos78z",
+      "points": 200,
+      "wins": 13,
+      "draws": 1,
+      "games_counted": 25,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/504131751.9732c5ed.200x200o.6f16445cdcfa.png",
+      "rapid": {
+        "points": 200,
+        "wins": 13,
+        "draws": 1
+      },
+      "blitz": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "rapid_points": 200,
+      "blitz_points": 0,
+      "bullet_points": 0
+    },
+    {
       "username": "rhovar",
       "points": 153,
       "wins": 14,
@@ -87,33 +114,6 @@
       "rapid_points": 75,
       "blitz_points": 75,
       "bullet_points": 3
-    },
-    {
-      "username": "awos78z",
-      "points": 140,
-      "wins": 9,
-      "draws": 1,
-      "games_counted": 19,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/504131751.9732c5ed.200x200o.6f16445cdcfa.png",
-      "rapid": {
-        "points": 140,
-        "wins": 9,
-        "draws": 1
-      },
-      "blitz": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 140,
-      "blitz_points": 0,
-      "bullet_points": 0
     }
   ]
 }

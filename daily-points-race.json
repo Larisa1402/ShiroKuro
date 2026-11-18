@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T19:15:55.531Z",
+  "generated_at": "2026-11-18T22:06:30.184Z",
   "window_start": "2026-11-18T00:00:00.000Z",
-  "window_end": "2026-11-18T19:15:12.463Z",
-  "total_members_checked": 1037,
+  "window_end": "2026-11-18T22:05:47.415Z",
+  "total_members_checked": 1038,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,20 +36,20 @@
   "players": [
     {
       "username": "seswww",
-      "points": 447,
-      "wins": 34,
+      "points": 525,
+      "wins": 42,
       "draws": 3,
-      "games_counted": 82,
+      "games_counted": 96,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 390,
-        "wins": 25,
+        "points": 405,
+        "wins": 26,
         "draws": 3
       },
       "blitz": {
-        "points": 45,
-        "wins": 5,
+        "points": 108,
+        "wins": 12,
         "draws": 0
       },
       "bullet": {
@@ -57,16 +57,16 @@
         "wins": 4,
         "draws": 0
       },
-      "rapid_points": 390,
-      "blitz_points": 45,
+      "rapid_points": 405,
+      "blitz_points": 108,
       "bullet_points": 12
     },
     {
       "username": "rifet1957",
-      "points": 423,
-      "wins": 44,
-      "draws": 9,
-      "games_counted": 94,
+      "points": 498,
+      "wins": 52,
+      "draws": 10,
+      "games_counted": 108,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/334274221.3f0f636b.200x200o.5361cd86480a.jpg",
       "rapid": {
@@ -75,9 +75,9 @@
         "draws": 0
       },
       "blitz": {
-        "points": 423,
-        "wins": 44,
-        "draws": 9
+        "points": 498,
+        "wins": 52,
+        "draws": 10
       },
       "bullet": {
         "points": 0,
@@ -85,34 +85,34 @@
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 423,
+      "blitz_points": 498,
       "bullet_points": 0
     },
     {
-      "username": "xxempatheticxx",
-      "points": 347,
-      "wins": 34,
-      "draws": 3,
-      "games_counted": 52,
+      "username": "user45312",
+      "points": 423,
+      "wins": 45,
+      "draws": 4,
+      "games_counted": 62,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/615935642.4d5d113e.200x200o.bcf084eabf16.png",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/535309563.95953cb5.200x200o.b11e90bdbe1e.jpg",
       "rapid": {
-        "points": 80,
-        "wins": 5,
-        "draws": 1
+        "points": 15,
+        "wins": 1,
+        "draws": 0
       },
       "blitz": {
-        "points": 267,
-        "wins": 29,
-        "draws": 2
+        "points": 408,
+        "wins": 44,
+        "draws": 4
       },
       "bullet": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 80,
-      "blitz_points": 267,
+      "rapid_points": 15,
+      "blitz_points": 408,
       "bullet_points": 0
     }
   ]

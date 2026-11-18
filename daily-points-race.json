@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T13:32:41.889Z",
+  "generated_at": "2026-11-18T16:18:10.664Z",
   "window_start": "2026-11-18T00:00:00.000Z",
-  "window_end": "2026-11-18T13:32:07.787Z",
-  "total_members_checked": 1039,
+  "window_end": "2026-11-18T16:17:30.951Z",
+  "total_members_checked": 1037,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,16 +36,16 @@
   "players": [
     {
       "username": "seswww",
-      "points": 318,
-      "wins": 26,
-      "draws": 0,
-      "games_counted": 56,
+      "points": 373,
+      "wins": 29,
+      "draws": 2,
+      "games_counted": 72,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 270,
-        "wins": 18,
-        "draws": 0
+        "points": 325,
+        "wins": 21,
+        "draws": 2
       },
       "blitz": {
         "points": 36,
@@ -57,16 +57,43 @@
         "wins": 4,
         "draws": 0
       },
-      "rapid_points": 270,
+      "rapid_points": 325,
       "blitz_points": 36,
       "bullet_points": 12
     },
     {
+      "username": "rifet1957",
+      "points": 270,
+      "wins": 28,
+      "draws": 6,
+      "games_counted": 59,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/334274221.3f0f636b.200x200o.5361cd86480a.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 270,
+        "wins": 28,
+        "draws": 6
+      },
+      "bullet": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "rapid_points": 0,
+      "blitz_points": 270,
+      "bullet_points": 0
+    },
+    {
       "username": "xxempatheticxx",
-      "points": 191,
-      "wins": 17,
+      "points": 254,
+      "wins": 24,
       "draws": 2,
-      "games_counted": 28,
+      "games_counted": 37,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/615935642.4d5d113e.200x200o.bcf084eabf16.png",
       "rapid": {
@@ -75,8 +102,8 @@
         "draws": 1
       },
       "blitz": {
-        "points": 111,
-        "wins": 12,
+        "points": 174,
+        "wins": 19,
         "draws": 1
       },
       "bullet": {
@@ -85,34 +112,7 @@
         "draws": 0
       },
       "rapid_points": 80,
-      "blitz_points": 111,
-      "bullet_points": 0
-    },
-    {
-      "username": "ajori_femboy",
-      "points": 183,
-      "wins": 15,
-      "draws": 0,
-      "games_counted": 20,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/146209405.54243fb3.200x200o.17ac117983c0.jpg",
-      "rapid": {
-        "points": 120,
-        "wins": 8,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 63,
-        "wins": 7,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 120,
-      "blitz_points": 63,
+      "blitz_points": 174,
       "bullet_points": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "updatedAt": "2026-11-19T01:31:46.376Z",
+  "updatedAt": "2026-11-19T04:16:04.063Z",
   "weekStartedAt": "2026-11-15T00:00:00.000Z",
   "weekEndsAt": "2026-11-22T00:00:00.000Z",
   "resetRule": "Every Sunday at 00:00 UTC",
@@ -24,6 +24,21 @@
       "rapidCurrentRating": 1162,
       "blitzCurrentRating": 1165,
       "bulletCurrentRating": 984
+    },
+    {
+      "username": "kdi7340",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/455547300.0e1e7094.200x200o.27a345bb4742.jpg",
+      "profileUrl": "https://www.chess.com/member/kdi7340",
+      "totalChange": 149,
+      "rapidChange": 58,
+      "blitzChange": 59,
+      "bulletChange": 32,
+      "rapidStartRating": 1018,
+      "blitzStartRating": 694,
+      "bulletStartRating": 577,
+      "rapidCurrentRating": 1076,
+      "blitzCurrentRating": 753,
+      "bulletCurrentRating": 609
     },
     {
       "username": "999executioner",
@@ -129,21 +144,6 @@
       "rapidCurrentRating": 1357,
       "blitzCurrentRating": 1079,
       "bulletCurrentRating": 942
-    },
-    {
-      "username": "kdi7340",
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/455547300.0e1e7094.200x200o.27a345bb4742.jpg",
-      "profileUrl": "https://www.chess.com/member/kdi7340",
-      "totalChange": 106,
-      "rapidChange": 41,
-      "blitzChange": 33,
-      "bulletChange": 32,
-      "rapidStartRating": 1018,
-      "blitzStartRating": 694,
-      "bulletStartRating": 577,
-      "rapidCurrentRating": 1059,
-      "blitzCurrentRating": 727,
-      "bulletCurrentRating": 609
     },
     {
       "username": "b4bixxy",

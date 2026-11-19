@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T07:40:00.548Z",
+  "generated_at": "2026-11-19T10:23:33.271Z",
   "window_start": "2026-11-19T00:00:00.000Z",
-  "window_end": "2026-11-19T07:39:18.117Z",
+  "window_end": "2026-11-19T10:22:54.108Z",
   "total_members_checked": 1039,
   "scoring": {
     "rapid": {
@@ -36,10 +36,10 @@
   "players": [
     {
       "username": "k_eyler",
-      "points": 198,
-      "wins": 20,
-      "draws": 6,
-      "games_counted": 46,
+      "points": 303,
+      "wins": 31,
+      "draws": 8,
+      "games_counted": 79,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/204279635.8c55d5f1.200x200o.6f507d7abe81.png",
       "rapid": {
@@ -48,9 +48,9 @@
         "draws": 0
       },
       "blitz": {
-        "points": 198,
-        "wins": 20,
-        "draws": 6
+        "points": 303,
+        "wins": 31,
+        "draws": 8
       },
       "bullet": {
         "points": 0,
@@ -58,15 +58,15 @@
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 198,
+      "blitz_points": 303,
       "bullet_points": 0
     },
     {
       "username": "seswww",
-      "points": 195,
-      "wins": 17,
-      "draws": 2,
-      "games_counted": 34,
+      "points": 217,
+      "wins": 24,
+      "draws": 3,
+      "games_counted": 50,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
@@ -80,30 +80,30 @@
         "draws": 2
       },
       "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
+        "points": 22,
+        "wins": 7,
+        "draws": 1
       },
       "rapid_points": 90,
       "blitz_points": 105,
-      "bullet_points": 0
+      "bullet_points": 22
     },
     {
-      "username": "kdi7340",
-      "points": 144,
-      "wins": 14,
-      "draws": 0,
-      "games_counted": 19,
+      "username": "d_majid",
+      "points": 160,
+      "wins": 9,
+      "draws": 5,
+      "games_counted": 29,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/455547300.0e1e7094.200x200o.27a345bb4742.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/605072788.053cf235.200x200o.64bf4d73682e.png",
       "rapid": {
-        "points": 45,
-        "wins": 3,
-        "draws": 0
+        "points": 160,
+        "wins": 9,
+        "draws": 5
       },
       "blitz": {
-        "points": 99,
-        "wins": 11,
+        "points": 0,
+        "wins": 0,
         "draws": 0
       },
       "bullet": {
@@ -111,8 +111,8 @@
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 45,
-      "blitz_points": 99,
+      "rapid_points": 160,
+      "blitz_points": 0,
       "bullet_points": 0
     }
   ]

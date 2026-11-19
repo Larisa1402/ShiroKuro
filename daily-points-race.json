@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T19:18:14.987Z",
+  "generated_at": "2026-11-19T22:06:27.399Z",
   "window_start": "2026-11-19T00:00:00.000Z",
-  "window_end": "2026-11-19T19:17:37.423Z",
+  "window_end": "2026-11-19T22:05:55.415Z",
   "total_members_checked": 1040,
   "scoring": {
     "rapid": {
@@ -62,6 +62,33 @@
       "bullet_points": 0
     },
     {
+      "username": "adiplays123",
+      "points": 318,
+      "wins": 34,
+      "draws": 2,
+      "games_counted": 49,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/227604431.1be60934.200x200o.ee1b55ffbe53.jpg",
+      "rapid": {
+        "points": 15,
+        "wins": 1,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 303,
+        "wins": 33,
+        "draws": 2
+      },
+      "bullet": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "rapid_points": 15,
+      "blitz_points": 303,
+      "bullet_points": 0
+    },
+    {
       "username": "k_eyler",
       "points": 312,
       "wins": 32,
@@ -86,33 +113,6 @@
       },
       "rapid_points": 0,
       "blitz_points": 312,
-      "bullet_points": 0
-    },
-    {
-      "username": "adiplays123",
-      "points": 300,
-      "wins": 32,
-      "draws": 2,
-      "games_counted": 46,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/227604431.1be60934.200x200o.ee1b55ffbe53.jpg",
-      "rapid": {
-        "points": 15,
-        "wins": 1,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 285,
-        "wins": 31,
-        "draws": 2
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 15,
-      "blitz_points": 285,
       "bullet_points": 0
     }
   ]

@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T16:14:16.732Z",
+  "generated_at": "2026-11-20T19:20:24.755Z",
   "window_start": "2026-11-20T00:00:00.000Z",
-  "window_end": "2026-11-20T16:13:37.457Z",
-  "total_members_checked": 1047,
+  "window_end": "2026-11-20T19:19:39.632Z",
+  "total_members_checked": 1048,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,10 +36,10 @@
   "players": [
     {
       "username": "seswww",
-      "points": 440,
-      "wins": 39,
+      "points": 521,
+      "wins": 48,
       "draws": 1,
-      "games_counted": 91,
+      "games_counted": 111,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
@@ -48,8 +48,8 @@
         "draws": 1
       },
       "blitz": {
-        "points": 225,
-        "wins": 25,
+        "points": 306,
+        "wins": 34,
         "draws": 0
       },
       "bullet": {
@@ -58,7 +58,7 @@
         "draws": 0
       },
       "rapid_points": 215,
-      "blitz_points": 225,
+      "blitz_points": 306,
       "bullet_points": 0
     },
     {
@@ -90,10 +90,10 @@
     },
     {
       "username": "adiplays123",
-      "points": 281,
-      "wins": 50,
+      "points": 311,
+      "wins": 54,
       "draws": 5,
-      "games_counted": 82,
+      "games_counted": 90,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/227604431.1be60934.200x200o.ee1b55ffbe53.jpg",
       "rapid": {
@@ -102,18 +102,18 @@
         "draws": 0
       },
       "blitz": {
-        "points": 81,
-        "wins": 9,
+        "points": 108,
+        "wins": 12,
         "draws": 0
       },
       "bullet": {
-        "points": 110,
-        "wins": 35,
+        "points": 113,
+        "wins": 36,
         "draws": 5
       },
       "rapid_points": 90,
-      "blitz_points": 81,
-      "bullet_points": 110
+      "blitz_points": 108,
+      "bullet_points": 113
     }
   ]
 }

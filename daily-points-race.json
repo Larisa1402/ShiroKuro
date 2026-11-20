@@ -4,10 +4,10 @@
   "club": "shirokuro",
   "mode": "race",
   "title": "Today's Points Race",
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T22:06:27.399Z",
-  "window_start": "2026-11-19T00:00:00.000Z",
-  "window_end": "2026-11-19T22:05:55.415Z",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T07:38:12.585Z",
+  "window_start": "2026-11-20T00:00:00.000Z",
+  "window_end": "2026-11-20T07:37:29.531Z",
   "total_members_checked": 1040,
   "scoring": {
     "rapid": {
@@ -35,17 +35,17 @@
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
     {
-      "username": "d_majid",
-      "points": 320,
-      "wins": 19,
-      "draws": 7,
-      "games_counted": 50,
+      "username": "veesu",
+      "points": 165,
+      "wins": 11,
+      "draws": 0,
+      "games_counted": 17,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/605072788.053cf235.200x200o.64bf4d73682e.png",
+      "avatar": "https://www.chess.com/bundles/web/images/user-image.007dad08.svg",
       "rapid": {
-        "points": 320,
-        "wins": 19,
-        "draws": 7
+        "points": 165,
+        "wins": 11,
+        "draws": 0
       },
       "blitz": {
         "points": 0,
@@ -57,63 +57,63 @@
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 320,
+      "rapid_points": 165,
       "blitz_points": 0,
       "bullet_points": 0
     },
     {
-      "username": "adiplays123",
-      "points": 318,
-      "wins": 34,
-      "draws": 2,
-      "games_counted": 49,
+      "username": "xuyen1786",
+      "points": 152,
+      "wins": 33,
+      "draws": 5,
+      "games_counted": 51,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/227604431.1be60934.200x200o.ee1b55ffbe53.jpg",
-      "rapid": {
-        "points": 15,
-        "wins": 1,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 303,
-        "wins": 33,
-        "draws": 2
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 15,
-      "blitz_points": 303,
-      "bullet_points": 0
-    },
-    {
-      "username": "k_eyler",
-      "points": 312,
-      "wins": 32,
-      "draws": 8,
-      "games_counted": 81,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/204279635.8c55d5f1.200x200o.6f507d7abe81.png",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/506548327.8c023650.200x200o.3a2266bfe83f.jpg",
       "rapid": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
       "blitz": {
-        "points": 312,
-        "wins": 32,
-        "draws": 8
+        "points": 72,
+        "wins": 8,
+        "draws": 0
       },
       "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
+        "points": 80,
+        "wins": 25,
+        "draws": 5
       },
       "rapid_points": 0,
-      "blitz_points": 312,
-      "bullet_points": 0
+      "blitz_points": 72,
+      "bullet_points": 80
+    },
+    {
+      "username": "zz_omc-khai-pham-no1_zz",
+      "points": 142,
+      "wins": 33,
+      "draws": 1,
+      "games_counted": 59,
+      "games_skipped_opponent_cap": 15,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/118868506.504613da.200x200o.d4ea4bec81f7.png",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 63,
+        "wins": 7,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 79,
+        "wins": 26,
+        "draws": 1
+      },
+      "rapid_points": 0,
+      "blitz_points": 63,
+      "bullet_points": 79
     }
   ]
 }

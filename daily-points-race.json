@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T10:04:08.503Z",
+  "generated_at": "2026-11-21T13:18:03.908Z",
   "window_start": "2026-11-21T00:00:00.000Z",
-  "window_end": "2026-11-21T10:03:24.897Z",
+  "window_end": "2026-11-21T13:17:21.551Z",
   "total_members_checked": 1050,
   "scoring": {
     "rapid": {
@@ -34,6 +34,33 @@
   },
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
+    {
+      "username": "adiplays123",
+      "points": 230,
+      "wins": 67,
+      "draws": 5,
+      "games_counted": 127,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/227604431.1be60934.200x200o.ee1b55ffbe53.jpg",
+      "rapid": {
+        "points": 15,
+        "wins": 1,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 18,
+        "wins": 2,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 197,
+        "wins": 64,
+        "draws": 5
+      },
+      "rapid_points": 15,
+      "blitz_points": 18,
+      "bullet_points": 197
+    },
     {
       "username": "wisdomleaf",
       "points": 153,
@@ -87,33 +114,6 @@
       "rapid_points": 30,
       "blitz_points": 60,
       "bullet_points": 50
-    },
-    {
-      "username": "milesmoraleslimitless2099",
-      "points": 135,
-      "wins": 10,
-      "draws": 1,
-      "games_counted": 16,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
-      "rapid": {
-        "points": 105,
-        "wins": 7,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 30,
-        "wins": 3,
-        "draws": 1
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 105,
-      "blitz_points": 30,
-      "bullet_points": 0
     }
   ]
 }

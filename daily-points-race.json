@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T19:08:26.775Z",
+  "generated_at": "2026-11-22T21:58:39.052Z",
   "window_start": "2026-11-22T00:00:00.000Z",
-  "window_end": "2026-11-22T19:07:45.932Z",
+  "window_end": "2026-11-22T21:57:56.746Z",
   "total_members_checked": 1055,
   "scoring": {
     "rapid": {
@@ -39,7 +39,7 @@
       "points": 491,
       "wins": 70,
       "draws": 7,
-      "games_counted": 103,
+      "games_counted": 104,
       "games_skipped_opponent_cap": 14,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/464803040.5a54c5d9.200x200o.6a7caacfb6f2.jpg",
       "rapid": {
@@ -66,7 +66,7 @@
       "points": 448,
       "wins": 35,
       "draws": 5,
-      "games_counted": 86,
+      "games_counted": 93,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
@@ -89,31 +89,31 @@
       "bullet_points": 3
     },
     {
-      "username": "sekaidee",
-      "points": 310,
-      "wins": 20,
-      "draws": 2,
-      "games_counted": 41,
+      "username": "milesmoraleslimitless2099",
+      "points": 420,
+      "wins": 57,
+      "draws": 3,
+      "games_counted": 102,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/301934091.21bf3c26.200x200o.c80709dfb1f4.png",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
       "rapid": {
-        "points": 310,
-        "wins": 20,
-        "draws": 2
+        "points": 225,
+        "wins": 15,
+        "draws": 0
       },
       "blitz": {
-        "points": 0,
-        "wins": 0,
+        "points": 99,
+        "wins": 11,
         "draws": 0
       },
       "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
+        "points": 96,
+        "wins": 31,
+        "draws": 3
       },
-      "rapid_points": 310,
-      "blitz_points": 0,
-      "bullet_points": 0
+      "rapid_points": 225,
+      "blitz_points": 99,
+      "bullet_points": 96
     }
   ]
 }

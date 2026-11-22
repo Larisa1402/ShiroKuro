@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T07:30:13.972Z",
+  "generated_at": "2026-11-22T10:02:31.077Z",
   "window_start": "2026-11-22T00:00:00.000Z",
-  "window_end": "2026-11-22T07:29:33.271Z",
-  "total_members_checked": 1054,
+  "window_end": "2026-11-22T10:01:47.525Z",
+  "total_members_checked": 1056,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,15 +36,15 @@
   "players": [
     {
       "username": "seswww",
-      "points": 212,
-      "wins": 17,
+      "points": 272,
+      "wins": 21,
       "draws": 3,
-      "games_counted": 38,
+      "games_counted": 46,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 140,
-        "wins": 9,
+        "points": 200,
+        "wins": 13,
         "draws": 1
       },
       "blitz": {
@@ -57,7 +57,7 @@
         "wins": 1,
         "draws": 0
       },
-      "rapid_points": 140,
+      "rapid_points": 200,
       "blitz_points": 69,
       "bullet_points": 3
     },
@@ -90,15 +90,15 @@
     },
     {
       "username": "simjingxuang",
-      "points": 112,
-      "wins": 17,
+      "points": 130,
+      "wins": 19,
       "draws": 1,
-      "games_counted": 22,
+      "games_counted": 24,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/409727691.d02c22a9.200x200o.91e66c5937a1.jpg",
       "rapid": {
-        "points": 60,
-        "wins": 4,
+        "points": 75,
+        "wins": 5,
         "draws": 0
       },
       "blitz": {
@@ -107,13 +107,13 @@
         "draws": 0
       },
       "bullet": {
-        "points": 34,
-        "wins": 11,
+        "points": 37,
+        "wins": 12,
         "draws": 1
       },
-      "rapid_points": 60,
+      "rapid_points": 75,
       "blitz_points": 18,
-      "bullet_points": 34
+      "bullet_points": 37
     }
   ]
 }

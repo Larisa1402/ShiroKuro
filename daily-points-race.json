@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T16:00:00.044Z",
+  "generated_at": "2026-11-22T19:08:26.775Z",
   "window_start": "2026-11-22T00:00:00.000Z",
-  "window_end": "2026-11-22T15:59:13.111Z",
-  "total_members_checked": 1056,
+  "window_end": "2026-11-22T19:07:45.932Z",
+  "total_members_checked": 1055,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,43 +36,43 @@
   "players": [
     {
       "username": "shadow_forest01",
-      "points": 386,
-      "wins": 57,
+      "points": 491,
+      "wins": 70,
       "draws": 7,
-      "games_counted": 89,
+      "games_counted": 103,
       "games_skipped_opponent_cap": 14,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/464803040.5a54c5d9.200x200o.6a7caacfb6f2.jpg",
       "rapid": {
-        "points": 160,
-        "wins": 10,
+        "points": 190,
+        "wins": 12,
         "draws": 2
       },
       "blitz": {
-        "points": 120,
-        "wins": 13,
+        "points": 183,
+        "wins": 20,
         "draws": 1
       },
       "bullet": {
-        "points": 106,
-        "wins": 34,
+        "points": 118,
+        "wins": 38,
         "draws": 4
       },
-      "rapid_points": 160,
-      "blitz_points": 120,
-      "bullet_points": 106
+      "rapid_points": 190,
+      "blitz_points": 183,
+      "bullet_points": 118
     },
     {
       "username": "seswww",
-      "points": 383,
-      "wins": 31,
-      "draws": 4,
-      "games_counted": 74,
+      "points": 448,
+      "wins": 35,
+      "draws": 5,
+      "games_counted": 86,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 245,
-        "wins": 16,
-        "draws": 1
+        "points": 310,
+        "wins": 20,
+        "draws": 2
       },
       "blitz": {
         "points": 135,
@@ -84,36 +84,36 @@
         "wins": 1,
         "draws": 0
       },
-      "rapid_points": 245,
+      "rapid_points": 310,
       "blitz_points": 135,
       "bullet_points": 3
     },
     {
-      "username": "sanyalchess1996",
-      "points": 216,
-      "wins": 22,
-      "draws": 0,
-      "games_counted": 26,
+      "username": "sekaidee",
+      "points": 310,
+      "wins": 20,
+      "draws": 2,
+      "games_counted": 41,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/307956995.f40a1cd1.200x200o.d0bc4fd14678.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/301934091.21bf3c26.200x200o.c80709dfb1f4.png",
       "rapid": {
-        "points": 105,
-        "wins": 7,
-        "draws": 0
+        "points": 310,
+        "wins": 20,
+        "draws": 2
       },
       "blitz": {
-        "points": 99,
-        "wins": 11,
+        "points": 0,
+        "wins": 0,
         "draws": 0
       },
       "bullet": {
-        "points": 12,
-        "wins": 4,
+        "points": 0,
+        "wins": 0,
         "draws": 0
       },
-      "rapid_points": 105,
-      "blitz_points": 99,
-      "bullet_points": 12
+      "rapid_points": 310,
+      "blitz_points": 0,
+      "bullet_points": 0
     }
   ]
 }

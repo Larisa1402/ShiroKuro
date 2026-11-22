@@ -4,10 +4,10 @@
   "club": "shirokuro",
   "mode": "race",
   "title": "Today's Points Race",
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T21:56:58.590Z",
-  "window_start": "2026-11-21T00:00:00.000Z",
-  "window_end": "2026-11-21T21:56:15.431Z",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T07:30:13.972Z",
+  "window_start": "2026-11-22T00:00:00.000Z",
+  "window_end": "2026-11-22T07:29:33.271Z",
   "total_members_checked": 1054,
   "scoring": {
     "rapid": {
@@ -35,85 +35,85 @@
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
     {
-      "username": "milesmoraleslimitless2099",
-      "points": 322,
-      "wins": 49,
+      "username": "seswww",
+      "points": 212,
+      "wins": 17,
       "draws": 3,
-      "games_counted": 74,
+      "games_counted": 38,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 165,
-        "wins": 11,
-        "draws": 0
+        "points": 140,
+        "wins": 9,
+        "draws": 1
       },
       "blitz": {
-        "points": 60,
-        "wins": 6,
+        "points": 69,
+        "wins": 7,
         "draws": 2
       },
       "bullet": {
-        "points": 97,
-        "wins": 32,
-        "draws": 1
-      },
-      "rapid_points": 165,
-      "blitz_points": 60,
-      "bullet_points": 97
-    },
-    {
-      "username": "penguinchocolate",
-      "points": 303,
-      "wins": 58,
-      "draws": 1,
-      "games_counted": 75,
-      "games_skipped_opponent_cap": 15,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/262064553.a45dea3a.200x200o.fd3a6e2ec047.jpg",
-      "rapid": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 192,
-        "wins": 21,
-        "draws": 1
-      },
-      "bullet": {
-        "points": 111,
-        "wins": 37,
-        "draws": 0
-      },
-      "rapid_points": 0,
-      "blitz_points": 192,
-      "bullet_points": 111
-    },
-    {
-      "username": "adiplays123",
-      "points": 298,
-      "wins": 87,
-      "draws": 7,
-      "games_counted": 160,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/227604431.1be60934.200x200o.ee1b55ffbe53.jpg",
-      "rapid": {
-        "points": 15,
+        "points": 3,
         "wins": 1,
         "draws": 0
       },
+      "rapid_points": 140,
+      "blitz_points": 69,
+      "bullet_points": 3
+    },
+    {
+      "username": "armandonavo15",
+      "points": 162,
+      "wins": 18,
+      "draws": 0,
+      "games_counted": 30,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/465412694.a34239d8.200x200o.034823537ea7.jpg",
+      "rapid": {
+        "points": 120,
+        "wins": 8,
+        "draws": 0
+      },
       "blitz": {
-        "points": 27,
-        "wins": 3,
+        "points": 18,
+        "wins": 2,
         "draws": 0
       },
       "bullet": {
-        "points": 256,
-        "wins": 83,
-        "draws": 7
+        "points": 24,
+        "wins": 8,
+        "draws": 0
       },
-      "rapid_points": 15,
-      "blitz_points": 27,
-      "bullet_points": 256
+      "rapid_points": 120,
+      "blitz_points": 18,
+      "bullet_points": 24
+    },
+    {
+      "username": "simjingxuang",
+      "points": 112,
+      "wins": 17,
+      "draws": 1,
+      "games_counted": 22,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/409727691.d02c22a9.200x200o.91e66c5937a1.jpg",
+      "rapid": {
+        "points": 60,
+        "wins": 4,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 18,
+        "wins": 2,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 34,
+        "wins": 11,
+        "draws": 1
+      },
+      "rapid_points": 60,
+      "blitz_points": 18,
+      "bullet_points": 34
     }
   ]
 }

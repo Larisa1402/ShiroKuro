@@ -4,11 +4,11 @@
   "club": "shirokuro",
   "mode": "race",
   "title": "Today's Points Race",
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T21:58:39.052Z",
-  "window_start": "2026-11-22T00:00:00.000Z",
-  "window_end": "2026-11-22T21:57:56.746Z",
-  "total_members_checked": 1055,
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T07:54:45.631Z",
+  "window_start": "2026-11-23T00:00:00.000Z",
+  "window_end": "2026-11-23T07:54:04.220Z",
+  "total_members_checked": 1056,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -35,85 +35,85 @@
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
     {
-      "username": "shadow_forest01",
-      "points": 491,
-      "wins": 70,
-      "draws": 7,
-      "games_counted": 104,
-      "games_skipped_opponent_cap": 14,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/464803040.5a54c5d9.200x200o.6a7caacfb6f2.jpg",
+      "username": "penguinchocolate",
+      "points": 154,
+      "wins": 44,
+      "draws": 2,
+      "games_counted": 64,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/262064553.a45dea3a.200x200o.fd3a6e2ec047.jpg",
       "rapid": {
-        "points": 190,
-        "wins": 12,
-        "draws": 2
+        "points": 0,
+        "wins": 0,
+        "draws": 0
       },
       "blitz": {
-        "points": 183,
-        "wins": 20,
+        "points": 30,
+        "wins": 3,
         "draws": 1
       },
       "bullet": {
-        "points": 118,
-        "wins": 38,
-        "draws": 4
+        "points": 124,
+        "wins": 41,
+        "draws": 1
       },
-      "rapid_points": 190,
-      "blitz_points": 183,
-      "bullet_points": 118
-    },
-    {
-      "username": "seswww",
-      "points": 448,
-      "wins": 35,
-      "draws": 5,
-      "games_counted": 93,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
-      "rapid": {
-        "points": 310,
-        "wins": 20,
-        "draws": 2
-      },
-      "blitz": {
-        "points": 135,
-        "wins": 14,
-        "draws": 3
-      },
-      "bullet": {
-        "points": 3,
-        "wins": 1,
-        "draws": 0
-      },
-      "rapid_points": 310,
-      "blitz_points": 135,
-      "bullet_points": 3
+      "rapid_points": 0,
+      "blitz_points": 30,
+      "bullet_points": 124
     },
     {
       "username": "milesmoraleslimitless2099",
-      "points": 420,
-      "wins": 57,
-      "draws": 3,
-      "games_counted": 102,
+      "points": 132,
+      "wins": 16,
+      "draws": 0,
+      "games_counted": 27,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
       "rapid": {
-        "points": 225,
-        "wins": 15,
+        "points": 0,
+        "wins": 0,
         "draws": 0
       },
       "blitz": {
-        "points": 99,
-        "wins": 11,
+        "points": 126,
+        "wins": 14,
         "draws": 0
       },
       "bullet": {
-        "points": 96,
-        "wins": 31,
-        "draws": 3
+        "points": 6,
+        "wins": 2,
+        "draws": 0
       },
-      "rapid_points": 225,
-      "blitz_points": 99,
-      "bullet_points": 96
+      "rapid_points": 0,
+      "blitz_points": 126,
+      "bullet_points": 6
+    },
+    {
+      "username": "amakitsunee",
+      "points": 126,
+      "wins": 30,
+      "draws": 6,
+      "games_counted": 52,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/460951326.b2dfdbfd.200x200o.4db86b3e0a49.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 45,
+        "wins": 5,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 81,
+        "wins": 25,
+        "draws": 6
+      },
+      "rapid_points": 0,
+      "blitz_points": 45,
+      "bullet_points": 81
     }
   ]
 }

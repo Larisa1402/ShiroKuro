@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T07:54:45.631Z",
+  "generated_at": "2026-11-23T10:29:34.636Z",
   "window_start": "2026-11-23T00:00:00.000Z",
-  "window_end": "2026-11-23T07:54:04.220Z",
-  "total_members_checked": 1056,
+  "window_end": "2026-11-23T10:28:53.239Z",
+  "total_members_checked": 1055,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -35,6 +35,60 @@
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
     {
+      "username": "amakitsunee",
+      "points": 192,
+      "wins": 37,
+      "draws": 7,
+      "games_counted": 63,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/460951326.9759bbd4.200x200o.7e683f33a94c.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 111,
+        "wins": 12,
+        "draws": 1
+      },
+      "bullet": {
+        "points": 81,
+        "wins": 25,
+        "draws": 6
+      },
+      "rapid_points": 0,
+      "blitz_points": 111,
+      "bullet_points": 81
+    },
+    {
+      "username": "armandonavo15",
+      "points": 179,
+      "wins": 30,
+      "draws": 7,
+      "games_counted": 56,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/465412694.a34239d8.200x200o.034823537ea7.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 123,
+        "wins": 13,
+        "draws": 2
+      },
+      "bullet": {
+        "points": 56,
+        "wins": 17,
+        "draws": 5
+      },
+      "rapid_points": 0,
+      "blitz_points": 123,
+      "bullet_points": 56
+    },
+    {
       "username": "penguinchocolate",
       "points": 154,
       "wins": 44,
@@ -60,60 +114,6 @@
       "rapid_points": 0,
       "blitz_points": 30,
       "bullet_points": 124
-    },
-    {
-      "username": "milesmoraleslimitless2099",
-      "points": 132,
-      "wins": 16,
-      "draws": 0,
-      "games_counted": 27,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
-      "rapid": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 126,
-        "wins": 14,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 6,
-        "wins": 2,
-        "draws": 0
-      },
-      "rapid_points": 0,
-      "blitz_points": 126,
-      "bullet_points": 6
-    },
-    {
-      "username": "amakitsunee",
-      "points": 126,
-      "wins": 30,
-      "draws": 6,
-      "games_counted": 52,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/460951326.b2dfdbfd.200x200o.4db86b3e0a49.jpg",
-      "rapid": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 45,
-        "wins": 5,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 81,
-        "wins": 25,
-        "draws": 6
-      },
-      "rapid_points": 0,
-      "blitz_points": 45,
-      "bullet_points": 81
     }
   ]
 }

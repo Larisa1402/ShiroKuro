@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T10:29:34.636Z",
+  "generated_at": "2026-11-23T16:23:19.906Z",
   "window_start": "2026-11-23T00:00:00.000Z",
-  "window_end": "2026-11-23T10:28:53.239Z",
-  "total_members_checked": 1055,
+  "window_end": "2026-11-23T16:22:44.923Z",
+  "total_members_checked": 1056,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,10 +36,10 @@
   "players": [
     {
       "username": "amakitsunee",
-      "points": 192,
-      "wins": 37,
-      "draws": 7,
-      "games_counted": 63,
+      "points": 286,
+      "wins": 54,
+      "draws": 10,
+      "games_counted": 99,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/460951326.9759bbd4.200x200o.7e683f33a94c.jpg",
       "rapid": {
@@ -48,18 +48,18 @@
         "draws": 0
       },
       "blitz": {
-        "points": 111,
-        "wins": 12,
-        "draws": 1
+        "points": 171,
+        "wins": 18,
+        "draws": 3
       },
       "bullet": {
-        "points": 81,
-        "wins": 25,
-        "draws": 6
+        "points": 115,
+        "wins": 36,
+        "draws": 7
       },
       "rapid_points": 0,
-      "blitz_points": 111,
-      "bullet_points": 81
+      "blitz_points": 171,
+      "bullet_points": 115
     },
     {
       "username": "armandonavo15",

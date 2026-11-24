@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T13:35:48.598Z",
+  "generated_at": "2026-11-24T16:28:27.609Z",
   "window_start": "2026-11-24T00:00:00.000Z",
-  "window_end": "2026-11-24T13:35:02.884Z",
+  "window_end": "2026-11-24T16:27:45.852Z",
   "total_members_checked": 1054,
   "scoring": {
     "rapid": {
@@ -36,15 +36,15 @@
   "players": [
     {
       "username": "seswww",
-      "points": 579,
-      "wins": 51,
+      "points": 684,
+      "wins": 58,
       "draws": 4,
-      "games_counted": 104,
+      "games_counted": 123,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 270,
-        "wins": 17,
+        "points": 375,
+        "wins": 24,
         "draws": 3
       },
       "blitz": {
@@ -57,8 +57,35 @@
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 270,
+      "rapid_points": 375,
       "blitz_points": 309,
+      "bullet_points": 0
+    },
+    {
+      "username": "kocho-senpai",
+      "points": 240,
+      "wins": 16,
+      "draws": 0,
+      "games_counted": 25,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/568326142.4ea5d8af.200x200o.4487417f0826.png",
+      "rapid": {
+        "points": 240,
+        "wins": 16,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "rapid_points": 240,
+      "blitz_points": 0,
       "bullet_points": 0
     },
     {
@@ -86,33 +113,6 @@
       },
       "rapid_points": 0,
       "blitz_points": 177,
-      "bullet_points": 0
-    },
-    {
-      "username": "mackadat",
-      "points": 153,
-      "wins": 17,
-      "draws": 0,
-      "games_counted": 26,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/315346735.a69c3dbe.200x200o.a86576699d00.png",
-      "rapid": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 153,
-        "wins": 17,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 0,
-      "blitz_points": 153,
       "bullet_points": 0
     }
   ]

@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T07:41:39.680Z",
+  "generated_at": "2026-11-24T10:24:54.346Z",
   "window_start": "2026-11-24T00:00:00.000Z",
-  "window_end": "2026-11-24T07:40:59.275Z",
+  "window_end": "2026-11-24T10:24:09.810Z",
   "total_members_checked": 1055,
   "scoring": {
     "rapid": {
@@ -36,20 +36,20 @@
   "players": [
     {
       "username": "seswww",
-      "points": 353,
-      "wins": 33,
+      "points": 440,
+      "wins": 42,
       "draws": 2,
-      "games_counted": 68,
+      "games_counted": 83,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 125,
-        "wins": 8,
+        "points": 140,
+        "wins": 9,
         "draws": 1
       },
       "blitz": {
-        "points": 228,
-        "wins": 25,
+        "points": 300,
+        "wins": 33,
         "draws": 1
       },
       "bullet": {
@@ -57,8 +57,35 @@
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 125,
-      "blitz_points": 228,
+      "rapid_points": 140,
+      "blitz_points": 300,
+      "bullet_points": 0
+    },
+    {
+      "username": "shadow_forest01",
+      "points": 177,
+      "wins": 19,
+      "draws": 2,
+      "games_counted": 37,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/464803040.5a54c5d9.200x200o.6a7caacfb6f2.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 177,
+        "wins": 19,
+        "draws": 2
+      },
+      "bullet": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "rapid_points": 0,
+      "blitz_points": 177,
       "bullet_points": 0
     },
     {
@@ -86,33 +113,6 @@
       },
       "rapid_points": 0,
       "blitz_points": 153,
-      "bullet_points": 0
-    },
-    {
-      "username": "mizutowataru",
-      "points": 120,
-      "wins": 7,
-      "draws": 3,
-      "games_counted": 16,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/480433986.3c605f0d.200x200o.a41b63e512d7.jpg",
-      "rapid": {
-        "points": 120,
-        "wins": 7,
-        "draws": 3
-      },
-      "blitz": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 120,
-      "blitz_points": 0,
       "bullet_points": 0
     }
   ]

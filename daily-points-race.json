@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T16:28:27.609Z",
+  "generated_at": "2026-11-24T19:19:11.662Z",
   "window_start": "2026-11-24T00:00:00.000Z",
-  "window_end": "2026-11-24T16:27:45.852Z",
-  "total_members_checked": 1054,
+  "window_end": "2026-11-24T19:18:31.912Z",
+  "total_members_checked": 1051,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,16 +36,16 @@
   "players": [
     {
       "username": "seswww",
-      "points": 684,
-      "wins": 58,
-      "draws": 4,
-      "games_counted": 123,
+      "points": 759,
+      "wins": 62,
+      "draws": 7,
+      "games_counted": 133,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 375,
-        "wins": 24,
-        "draws": 3
+        "points": 450,
+        "wins": 28,
+        "draws": 6
       },
       "blitz": {
         "points": 309,
@@ -57,22 +57,22 @@
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 375,
+      "rapid_points": 450,
       "blitz_points": 309,
       "bullet_points": 0
     },
     {
       "username": "kocho-senpai",
-      "points": 240,
-      "wins": 16,
-      "draws": 0,
-      "games_counted": 25,
+      "points": 335,
+      "wins": 22,
+      "draws": 1,
+      "games_counted": 37,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/568326142.4ea5d8af.200x200o.4487417f0826.png",
       "rapid": {
-        "points": 240,
-        "wins": 16,
-        "draws": 0
+        "points": 335,
+        "wins": 22,
+        "draws": 1
       },
       "blitz": {
         "points": 0,
@@ -84,36 +84,36 @@
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 240,
+      "rapid_points": 335,
       "blitz_points": 0,
       "bullet_points": 0
     },
     {
-      "username": "shadow_forest01",
-      "points": 177,
-      "wins": 19,
-      "draws": 2,
-      "games_counted": 37,
+      "username": "adiplays123",
+      "points": 285,
+      "wins": 37,
+      "draws": 4,
+      "games_counted": 69,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/464803040.5a54c5d9.200x200o.6a7caacfb6f2.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/227604431.1be60934.200x200o.ee1b55ffbe53.jpg",
       "rapid": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
       "blitz": {
-        "points": 177,
-        "wins": 19,
-        "draws": 2
+        "points": 255,
+        "wins": 27,
+        "draws": 4
       },
       "bullet": {
-        "points": 0,
-        "wins": 0,
+        "points": 30,
+        "wins": 10,
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 177,
-      "bullet_points": 0
+      "blitz_points": 255,
+      "bullet_points": 30
     }
   ]
 }

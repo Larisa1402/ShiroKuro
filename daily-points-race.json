@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T07:44:29.153Z",
+  "generated_at": "2026-11-25T10:26:05.487Z",
   "window_start": "2026-11-25T00:00:00.000Z",
-  "window_end": "2026-11-25T07:43:46.637Z",
-  "total_members_checked": 1053,
+  "window_end": "2026-11-25T10:25:18.954Z",
+  "total_members_checked": 1054,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -66,7 +66,7 @@
       "points": 159,
       "wins": 17,
       "draws": 2,
-      "games_counted": 43,
+      "games_counted": 44,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
@@ -89,31 +89,31 @@
       "bullet_points": 0
     },
     {
-      "username": "elodietokyo",
-      "points": 111,
+      "username": "geniusmon",
+      "points": 132,
       "wins": 14,
-      "draws": 1,
-      "games_counted": 32,
+      "draws": 0,
+      "games_counted": 23,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/190914793.a80f157b.200x200o.03355de44e0f.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/152744557.496cf28a.200x200o.68445271d823.jpeg",
       "rapid": {
+        "points": 15,
+        "wins": 1,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 117,
+        "wins": 13,
+        "draws": 0
+      },
+      "bullet": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
-      "blitz": {
-        "points": 102,
-        "wins": 11,
-        "draws": 1
-      },
-      "bullet": {
-        "points": 9,
-        "wins": 3,
-        "draws": 0
-      },
-      "rapid_points": 0,
-      "blitz_points": 102,
-      "bullet_points": 9
+      "rapid_points": 15,
+      "blitz_points": 117,
+      "bullet_points": 0
     }
   ]
 }

@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T13:41:18.137Z",
+  "generated_at": "2026-11-25T16:27:54.269Z",
   "window_start": "2026-11-25T00:00:00.000Z",
-  "window_end": "2026-11-25T13:40:35.454Z",
-  "total_members_checked": 1053,
+  "window_end": "2026-11-25T16:27:01.894Z",
+  "total_members_checked": 1052,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -34,6 +34,33 @@
   },
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
+    {
+      "username": "rifet1957",
+      "points": 231,
+      "wins": 33,
+      "draws": 6,
+      "games_counted": 98,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/334274221.3f0f636b.200x200o.5361cd86480a.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 189,
+        "wins": 19,
+        "draws": 6
+      },
+      "bullet": {
+        "points": 42,
+        "wins": 14,
+        "draws": 0
+      },
+      "rapid_points": 0,
+      "blitz_points": 189,
+      "bullet_points": 42
+    },
     {
       "username": "milesmoraleslimitless2099",
       "points": 219,
@@ -87,33 +114,6 @@
       "rapid_points": 0,
       "blitz_points": 174,
       "bullet_points": 21
-    },
-    {
-      "username": "rifet1957",
-      "points": 171,
-      "wins": 27,
-      "draws": 4,
-      "games_counted": 80,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/334274221.3f0f636b.200x200o.5361cd86480a.jpg",
-      "rapid": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 129,
-        "wins": 13,
-        "draws": 4
-      },
-      "bullet": {
-        "points": 42,
-        "wins": 14,
-        "draws": 0
-      },
-      "rapid_points": 0,
-      "blitz_points": 129,
-      "bullet_points": 42
     }
   ]
 }

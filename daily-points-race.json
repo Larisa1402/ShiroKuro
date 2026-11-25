@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T16:27:54.269Z",
+  "generated_at": "2026-11-25T19:13:58.068Z",
   "window_start": "2026-11-25T00:00:00.000Z",
-  "window_end": "2026-11-25T16:27:01.894Z",
-  "total_members_checked": 1052,
+  "window_end": "2026-11-25T19:13:17.896Z",
+  "total_members_checked": 1053,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,20 +36,20 @@
   "players": [
     {
       "username": "rifet1957",
-      "points": 231,
-      "wins": 33,
+      "points": 348,
+      "wins": 44,
       "draws": 6,
-      "games_counted": 98,
+      "games_counted": 132,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/334274221.3f0f636b.200x200o.5361cd86480a.jpg",
       "rapid": {
-        "points": 0,
-        "wins": 0,
+        "points": 45,
+        "wins": 3,
         "draws": 0
       },
       "blitz": {
-        "points": 189,
-        "wins": 19,
+        "points": 261,
+        "wins": 27,
         "draws": 6
       },
       "bullet": {
@@ -57,16 +57,16 @@
         "wins": 14,
         "draws": 0
       },
-      "rapid_points": 0,
-      "blitz_points": 189,
+      "rapid_points": 45,
+      "blitz_points": 261,
       "bullet_points": 42
     },
     {
       "username": "milesmoraleslimitless2099",
-      "points": 219,
-      "wins": 24,
+      "points": 282,
+      "wins": 31,
       "draws": 1,
-      "games_counted": 37,
+      "games_counted": 53,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
       "rapid": {
@@ -75,8 +75,8 @@
         "draws": 0
       },
       "blitz": {
-        "points": 219,
-        "wins": 24,
+        "points": 282,
+        "wins": 31,
         "draws": 1
       },
       "bullet": {
@@ -85,35 +85,35 @@
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 219,
+      "blitz_points": 282,
       "bullet_points": 0
     },
     {
-      "username": "elodietokyo",
-      "points": 195,
-      "wins": 26,
-      "draws": 1,
-      "games_counted": 54,
+      "username": "adiplays123",
+      "points": 239,
+      "wins": 60,
+      "draws": 9,
+      "games_counted": 116,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/190914793.a80f157b.200x200o.03355de44e0f.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/227604431.1be60934.200x200o.ee1b55ffbe53.jpg",
       "rapid": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
       "blitz": {
-        "points": 174,
-        "wins": 19,
+        "points": 75,
+        "wins": 8,
         "draws": 1
       },
       "bullet": {
-        "points": 21,
-        "wins": 7,
-        "draws": 0
+        "points": 164,
+        "wins": 52,
+        "draws": 8
       },
       "rapid_points": 0,
-      "blitz_points": 174,
-      "bullet_points": 21
+      "blitz_points": 75,
+      "bullet_points": 164
     }
   ]
 }

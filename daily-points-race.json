@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T10:26:05.487Z",
+  "generated_at": "2026-11-25T13:41:18.137Z",
   "window_start": "2026-11-25T00:00:00.000Z",
-  "window_end": "2026-11-25T10:25:18.954Z",
-  "total_members_checked": 1054,
+  "window_end": "2026-11-25T13:40:35.454Z",
+  "total_members_checked": 1053,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -62,58 +62,58 @@
       "bullet_points": 0
     },
     {
-      "username": "seswww",
-      "points": 159,
-      "wins": 17,
-      "draws": 2,
-      "games_counted": 44,
+      "username": "elodietokyo",
+      "points": 195,
+      "wins": 26,
+      "draws": 1,
+      "games_counted": 54,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/190914793.a80f157b.200x200o.03355de44e0f.jpg",
       "rapid": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
       "blitz": {
-        "points": 159,
-        "wins": 17,
-        "draws": 2
+        "points": 174,
+        "wins": 19,
+        "draws": 1
       },
       "bullet": {
-        "points": 0,
-        "wins": 0,
+        "points": 21,
+        "wins": 7,
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 159,
-      "bullet_points": 0
+      "blitz_points": 174,
+      "bullet_points": 21
     },
     {
-      "username": "geniusmon",
-      "points": 132,
-      "wins": 14,
-      "draws": 0,
-      "games_counted": 23,
+      "username": "rifet1957",
+      "points": 171,
+      "wins": 27,
+      "draws": 4,
+      "games_counted": 80,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/152744557.496cf28a.200x200o.68445271d823.jpeg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/334274221.3f0f636b.200x200o.5361cd86480a.jpg",
       "rapid": {
-        "points": 15,
-        "wins": 1,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 117,
-        "wins": 13,
-        "draws": 0
-      },
-      "bullet": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 15,
-      "blitz_points": 117,
-      "bullet_points": 0
+      "blitz": {
+        "points": 129,
+        "wins": 13,
+        "draws": 4
+      },
+      "bullet": {
+        "points": 42,
+        "wins": 14,
+        "draws": 0
+      },
+      "rapid_points": 0,
+      "blitz_points": 129,
+      "bullet_points": 42
     }
   ]
 }

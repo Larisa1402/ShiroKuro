@@ -4,11 +4,11 @@
   "club": "shirokuro",
   "mode": "race",
   "title": "Today's Points Race",
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T22:14:42.990Z",
-  "window_start": "2026-11-24T00:00:00.000Z",
-  "window_end": "2026-11-24T22:13:57.631Z",
-  "total_members_checked": 1052,
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T07:44:29.153Z",
+  "window_start": "2026-11-25T00:00:00.000Z",
+  "window_end": "2026-11-25T07:43:46.637Z",
+  "total_members_checked": 1053,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -35,85 +35,85 @@
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
     {
-      "username": "seswww",
-      "points": 867,
-      "wins": 72,
-      "draws": 7,
-      "games_counted": 151,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
-      "rapid": {
-        "points": 495,
-        "wins": 31,
-        "draws": 6
-      },
-      "blitz": {
-        "points": 372,
-        "wins": 41,
-        "draws": 1
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 495,
-      "blitz_points": 372,
-      "bullet_points": 0
-    },
-    {
-      "username": "kocho-senpai",
-      "points": 335,
-      "wins": 22,
+      "username": "milesmoraleslimitless2099",
+      "points": 219,
+      "wins": 24,
       "draws": 1,
       "games_counted": 37,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/568326142.4ea5d8af.200x200o.4487417f0826.png",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
       "rapid": {
-        "points": 335,
-        "wins": 22,
-        "draws": 1
-      },
-      "blitz": {
         "points": 0,
         "wins": 0,
         "draws": 0
+      },
+      "blitz": {
+        "points": 219,
+        "wins": 24,
+        "draws": 1
       },
       "bullet": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 335,
-      "blitz_points": 0,
+      "rapid_points": 0,
+      "blitz_points": 219,
       "bullet_points": 0
     },
     {
-      "username": "thatoneguynoir",
-      "points": 298,
-      "wins": 20,
+      "username": "seswww",
+      "points": 159,
+      "wins": 17,
       "draws": 2,
-      "games_counted": 29,
+      "games_counted": 43,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/395315817.2509ec40.200x200o.c7c51dfd93b5.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 280,
-        "wins": 18,
-        "draws": 2
+        "points": 0,
+        "wins": 0,
+        "draws": 0
       },
       "blitz": {
-        "points": 18,
-        "wins": 2,
-        "draws": 0
+        "points": 159,
+        "wins": 17,
+        "draws": 2
       },
       "bullet": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 280,
-      "blitz_points": 18,
+      "rapid_points": 0,
+      "blitz_points": 159,
       "bullet_points": 0
+    },
+    {
+      "username": "elodietokyo",
+      "points": 111,
+      "wins": 14,
+      "draws": 1,
+      "games_counted": 32,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/190914793.a80f157b.200x200o.03355de44e0f.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 102,
+        "wins": 11,
+        "draws": 1
+      },
+      "bullet": {
+        "points": 9,
+        "wins": 3,
+        "draws": 0
+      },
+      "rapid_points": 0,
+      "blitz_points": 102,
+      "bullet_points": 9
     }
   ]
 }

@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T10:27:41.828Z",
+  "generated_at": "2026-11-26T13:41:02.670Z",
   "window_start": "2026-11-26T00:00:00.000Z",
-  "window_end": "2026-11-26T10:27:00.498Z",
-  "total_members_checked": 1055,
+  "window_end": "2026-11-26T13:40:21.018Z",
+  "total_members_checked": 1056,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,20 +36,20 @@
   "players": [
     {
       "username": "seswww",
-      "points": 324,
-      "wins": 27,
-      "draws": 1,
-      "games_counted": 53,
+      "points": 524,
+      "wins": 42,
+      "draws": 2,
+      "games_counted": 77,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 195,
-        "wins": 13,
-        "draws": 0
+        "points": 350,
+        "wins": 23,
+        "draws": 1
       },
       "blitz": {
-        "points": 129,
-        "wins": 14,
+        "points": 174,
+        "wins": 19,
         "draws": 1
       },
       "bullet": {
@@ -57,27 +57,27 @@
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 195,
-      "blitz_points": 129,
+      "rapid_points": 350,
+      "blitz_points": 174,
       "bullet_points": 0
     },
     {
-      "username": "rejoice_05",
-      "points": 117,
-      "wins": 13,
-      "draws": 0,
-      "games_counted": 22,
+      "username": "iromeoo7",
+      "points": 138,
+      "wins": 15,
+      "draws": 1,
+      "games_counted": 21,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/480702558.ded1609e.200x200o.d123b69480a5.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/494833401.710dd800.200x200o.76442134e2c2.jpg",
       "rapid": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
       "blitz": {
-        "points": 117,
-        "wins": 13,
-        "draws": 0
+        "points": 138,
+        "wins": 15,
+        "draws": 1
       },
       "bullet": {
         "points": 0,
@@ -85,15 +85,15 @@
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 117,
+      "blitz_points": 138,
       "bullet_points": 0
     },
     {
       "username": "elodietokyo",
-      "points": 102,
-      "wins": 17,
-      "draws": 1,
-      "games_counted": 45,
+      "points": 129,
+      "wins": 21,
+      "draws": 2,
+      "games_counted": 54,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/190914793.a80f157b.200x200o.03355de44e0f.jpg",
       "rapid": {
@@ -102,18 +102,18 @@
         "draws": 0
       },
       "blitz": {
-        "points": 75,
-        "wins": 8,
-        "draws": 1
+        "points": 96,
+        "wins": 10,
+        "draws": 2
       },
       "bullet": {
-        "points": 27,
-        "wins": 9,
+        "points": 33,
+        "wins": 11,
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 75,
-      "bullet_points": 27
+      "blitz_points": 96,
+      "bullet_points": 33
     }
   ]
 }

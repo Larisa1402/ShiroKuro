@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T07:42:35.902Z",
+  "generated_at": "2026-11-26T10:27:41.828Z",
   "window_start": "2026-11-26T00:00:00.000Z",
-  "window_end": "2026-11-26T07:41:49.413Z",
-  "total_members_checked": 1054,
+  "window_end": "2026-11-26T10:27:00.498Z",
+  "total_members_checked": 1055,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,10 +36,10 @@
   "players": [
     {
       "username": "seswww",
-      "points": 261,
-      "wins": 20,
+      "points": 324,
+      "wins": 27,
       "draws": 1,
-      "games_counted": 37,
+      "games_counted": 53,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
@@ -48,8 +48,8 @@
         "draws": 0
       },
       "blitz": {
-        "points": 66,
-        "wins": 7,
+        "points": 129,
+        "wins": 14,
         "draws": 1
       },
       "bullet": {
@@ -58,7 +58,7 @@
         "draws": 0
       },
       "rapid_points": 195,
-      "blitz_points": 66,
+      "blitz_points": 129,
       "bullet_points": 0
     },
     {
@@ -89,31 +89,31 @@
       "bullet_points": 0
     },
     {
-      "username": "magnusgoat8",
-      "points": 96,
-      "wins": 10,
-      "draws": 2,
-      "games_counted": 31,
+      "username": "elodietokyo",
+      "points": 102,
+      "wins": 17,
+      "draws": 1,
+      "games_counted": 45,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/572185446.7ae3852c.200x200o.a12eb502b85f.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/190914793.a80f157b.200x200o.03355de44e0f.jpg",
       "rapid": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
       "blitz": {
-        "points": 96,
-        "wins": 10,
-        "draws": 2
+        "points": 75,
+        "wins": 8,
+        "draws": 1
       },
       "bullet": {
-        "points": 0,
-        "wins": 0,
+        "points": 27,
+        "wins": 9,
         "draws": 0
       },
       "rapid_points": 0,
-      "blitz_points": 96,
-      "bullet_points": 0
+      "blitz_points": 75,
+      "bullet_points": 27
     }
   ]
 }

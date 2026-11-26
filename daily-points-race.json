@@ -4,10 +4,10 @@
   "club": "shirokuro",
   "mode": "race",
   "title": "Today's Points Race",
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T22:14:52.489Z",
-  "window_start": "2026-11-25T00:00:00.000Z",
-  "window_end": "2026-11-25T22:14:02.852Z",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T07:42:35.902Z",
+  "window_start": "2026-11-26T00:00:00.000Z",
+  "window_end": "2026-11-26T07:41:49.413Z",
   "total_members_checked": 1054,
   "scoring": {
     "rapid": {
@@ -35,75 +35,21 @@
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
     {
-      "username": "milesmoraleslimitless2099",
-      "points": 525,
-      "wins": 57,
-      "draws": 2,
-      "games_counted": 92,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
-      "rapid": {
-        "points": 15,
-        "wins": 1,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 510,
-        "wins": 56,
-        "draws": 2
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 15,
-      "blitz_points": 510,
-      "bullet_points": 0
-    },
-    {
-      "username": "rifet1957",
-      "points": 444,
-      "wins": 54,
-      "draws": 6,
-      "games_counted": 155,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/334274221.3f0f636b.200x200o.5361cd86480a.jpg",
-      "rapid": {
-        "points": 60,
-        "wins": 4,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 342,
-        "wins": 36,
-        "draws": 6
-      },
-      "bullet": {
-        "points": 42,
-        "wins": 14,
-        "draws": 0
-      },
-      "rapid_points": 60,
-      "blitz_points": 342,
-      "bullet_points": 42
-    },
-    {
-      "username": "ahmdsaid111",
-      "points": 282,
-      "wins": 31,
+      "username": "seswww",
+      "points": 261,
+      "wins": 20,
       "draws": 1,
-      "games_counted": 52,
+      "games_counted": 37,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29310220.c3b201bf.200x200o.2ec018e1a5cd.gif",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 0,
-        "wins": 0,
+        "points": 195,
+        "wins": 13,
         "draws": 0
       },
       "blitz": {
-        "points": 282,
-        "wins": 31,
+        "points": 66,
+        "wins": 7,
         "draws": 1
       },
       "bullet": {
@@ -111,8 +57,62 @@
         "wins": 0,
         "draws": 0
       },
+      "rapid_points": 195,
+      "blitz_points": 66,
+      "bullet_points": 0
+    },
+    {
+      "username": "rejoice_05",
+      "points": 117,
+      "wins": 13,
+      "draws": 0,
+      "games_counted": 22,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/480702558.ded1609e.200x200o.d123b69480a5.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 117,
+        "wins": 13,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
       "rapid_points": 0,
-      "blitz_points": 282,
+      "blitz_points": 117,
+      "bullet_points": 0
+    },
+    {
+      "username": "magnusgoat8",
+      "points": 96,
+      "wins": 10,
+      "draws": 2,
+      "games_counted": 31,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/572185446.7ae3852c.200x200o.a12eb502b85f.jpg",
+      "rapid": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "blitz": {
+        "points": 96,
+        "wins": 10,
+        "draws": 2
+      },
+      "bullet": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "rapid_points": 0,
+      "blitz_points": 96,
       "bullet_points": 0
     }
   ]

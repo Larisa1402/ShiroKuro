@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T07:41:14.270Z",
+  "generated_at": "2026-11-27T10:24:51.578Z",
   "window_start": "2026-11-27T00:00:00.000Z",
-  "window_end": "2026-11-27T07:40:33.416Z",
+  "window_end": "2026-11-27T10:24:11.715Z",
   "total_members_checked": 1057,
   "scoring": {
     "rapid": {
@@ -36,10 +36,10 @@
   "players": [
     {
       "username": "seswww",
-      "points": 246,
-      "wins": 25,
-      "draws": 1,
-      "games_counted": 34,
+      "points": 312,
+      "wins": 32,
+      "draws": 2,
+      "games_counted": 47,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
@@ -48,9 +48,9 @@
         "draws": 0
       },
       "blitz": {
-        "points": 201,
-        "wins": 22,
-        "draws": 1
+        "points": 267,
+        "wins": 29,
+        "draws": 2
       },
       "bullet": {
         "points": 0,
@@ -58,7 +58,34 @@
         "draws": 0
       },
       "rapid_points": 45,
-      "blitz_points": 201,
+      "blitz_points": 267,
+      "bullet_points": 0
+    },
+    {
+      "username": "taiwaneseturtlerepublic",
+      "points": 245,
+      "wins": 16,
+      "draws": 1,
+      "games_counted": 33,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/474956600.e6747697.200x200o.ff9bce528627.jpg",
+      "rapid": {
+        "points": 245,
+        "wins": 16,
+        "draws": 1
+      },
+      "blitz": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "bullet": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "rapid_points": 245,
+      "blitz_points": 0,
       "bullet_points": 0
     },
     {
@@ -86,33 +113,6 @@
       },
       "rapid_points": 0,
       "blitz_points": 210,
-      "bullet_points": 0
-    },
-    {
-      "username": "taiwaneseturtlerepublic",
-      "points": 185,
-      "wins": 12,
-      "draws": 1,
-      "games_counted": 22,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/474956600.e6747697.200x200o.ff9bce528627.jpg",
-      "rapid": {
-        "points": 185,
-        "wins": 12,
-        "draws": 1
-      },
-      "blitz": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 185,
-      "blitz_points": 0,
       "bullet_points": 0
     }
   ]

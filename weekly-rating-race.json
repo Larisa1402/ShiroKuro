@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "updatedAt": "2026-11-27T01:40:03.718Z",
+  "updatedAt": "2026-11-27T04:25:00.291Z",
   "weekStartedAt": "2026-11-22T00:00:00.000Z",
   "weekEndsAt": "2026-11-29T00:00:00.000Z",
   "resetRule": "Every Sunday at 00:00 UTC",
@@ -14,15 +14,15 @@
       "username": "milesmoraleslimitless2099",
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
       "profileUrl": "https://www.chess.com/member/MilesMoralesLimitless2099",
-      "totalChange": 405,
-      "rapidChange": 100,
-      "blitzChange": 285,
+      "totalChange": 529,
+      "rapidChange": 92,
+      "blitzChange": 417,
       "bulletChange": 20,
       "rapidStartRating": 915,
       "blitzStartRating": 728,
       "bulletStartRating": 1084,
-      "rapidCurrentRating": 1015,
-      "blitzCurrentRating": 1013,
+      "rapidCurrentRating": 1007,
+      "blitzCurrentRating": 1145,
       "bulletCurrentRating": 1104
     },
     {

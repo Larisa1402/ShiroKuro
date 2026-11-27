@@ -5,9 +5,9 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T13:36:39.698Z",
+  "generated_at": "2026-11-27T16:22:22.512Z",
   "window_start": "2026-11-27T00:00:00.000Z",
-  "window_end": "2026-11-27T13:35:57.408Z",
+  "window_end": "2026-11-27T16:21:41.713Z",
   "total_members_checked": 1056,
   "scoring": {
     "rapid": {
@@ -36,10 +36,10 @@
   "players": [
     {
       "username": "seswww",
-      "points": 348,
-      "wins": 36,
+      "points": 411,
+      "wins": 43,
       "draws": 2,
-      "games_counted": 57,
+      "games_counted": 69,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
@@ -48,8 +48,8 @@
         "draws": 0
       },
       "blitz": {
-        "points": 303,
-        "wins": 33,
+        "points": 366,
+        "wins": 40,
         "draws": 2
       },
       "bullet": {
@@ -58,7 +58,7 @@
         "draws": 0
       },
       "rapid_points": 45,
-      "blitz_points": 303,
+      "blitz_points": 366,
       "bullet_points": 0
     },
     {

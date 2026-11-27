@@ -5,10 +5,10 @@
   "mode": "race",
   "title": "Today's Points Race",
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T16:22:22.512Z",
+  "generated_at": "2026-11-27T19:17:22.519Z",
   "window_start": "2026-11-27T00:00:00.000Z",
-  "window_end": "2026-11-27T16:21:41.713Z",
-  "total_members_checked": 1056,
+  "window_end": "2026-11-27T19:16:39.911Z",
+  "total_members_checked": 1057,
   "scoring": {
     "rapid": {
       "win": 15,
@@ -36,20 +36,20 @@
   "players": [
     {
       "username": "seswww",
-      "points": 411,
-      "wins": 43,
-      "draws": 2,
-      "games_counted": 69,
+      "points": 425,
+      "wins": 44,
+      "draws": 3,
+      "games_counted": 79,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
       "rapid": {
-        "points": 45,
+        "points": 50,
         "wins": 3,
-        "draws": 0
+        "draws": 1
       },
       "blitz": {
-        "points": 366,
-        "wins": 40,
+        "points": 375,
+        "wins": 41,
         "draws": 2
       },
       "bullet": {
@@ -57,48 +57,21 @@
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 45,
-      "blitz_points": 366,
+      "rapid_points": 50,
+      "blitz_points": 375,
       "bullet_points": 0
     },
     {
-      "username": "chrissroodrriggance",
-      "points": 246,
-      "wins": 18,
-      "draws": 0,
-      "games_counted": 26,
+      "username": "shadow_forest01",
+      "points": 317,
+      "wins": 96,
+      "draws": 13,
+      "games_counted": 181,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/445345162.83c8c21f.200x200o.53aea7530a2b.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/464803040.5a54c5d9.200x200o.6a7caacfb6f2.jpg",
       "rapid": {
-        "points": 210,
-        "wins": 14,
-        "draws": 0
-      },
-      "blitz": {
-        "points": 36,
-        "wins": 4,
-        "draws": 0
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 210,
-      "blitz_points": 36,
-      "bullet_points": 0
-    },
-    {
-      "username": "taiwaneseturtlerepublic",
-      "points": 245,
-      "wins": 16,
-      "draws": 1,
-      "games_counted": 33,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/474956600.e6747697.200x200o.ff9bce528627.jpg",
-      "rapid": {
-        "points": 245,
-        "wins": 16,
+        "points": 20,
+        "wins": 1,
         "draws": 1
       },
       "blitz": {
@@ -107,12 +80,39 @@
         "draws": 0
       },
       "bullet": {
+        "points": 297,
+        "wins": 95,
+        "draws": 12
+      },
+      "rapid_points": 20,
+      "blitz_points": 0,
+      "bullet_points": 297
+    },
+    {
+      "username": "milesmoraleslimitless2099",
+      "points": 315,
+      "wins": 34,
+      "draws": 3,
+      "games_counted": 51,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
+      "rapid": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 245,
-      "blitz_points": 0,
+      "blitz": {
+        "points": 315,
+        "wins": 34,
+        "draws": 3
+      },
+      "bullet": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
+      },
+      "rapid_points": 0,
+      "blitz_points": 315,
       "bullet_points": 0
     }
   ]

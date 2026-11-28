@@ -4,10 +4,10 @@
   "club": "shirokuro",
   "mode": "race",
   "title": "Today's Points Race",
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T22:13:18.573Z",
-  "window_start": "2026-11-27T00:00:00.000Z",
-  "window_end": "2026-11-27T22:12:30.704Z",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T07:34:59.674Z",
+  "window_start": "2026-11-28T00:00:00.000Z",
+  "window_end": "2026-11-28T07:34:17.200Z",
   "total_members_checked": 1058,
   "scoring": {
     "rapid": {
@@ -35,85 +35,85 @@
   "note": "Live race updates every 3 hours after 06:00 UTC.",
   "players": [
     {
-      "username": "seswww",
-      "points": 497,
-      "wins": 52,
-      "draws": 3,
-      "games_counted": 97,
-      "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322087521.6fa47298.200x200o.440bac118683.jpg",
-      "rapid": {
-        "points": 50,
-        "wins": 3,
-        "draws": 1
-      },
-      "blitz": {
-        "points": 447,
-        "wins": 49,
-        "draws": 2
-      },
-      "bullet": {
-        "points": 0,
-        "wins": 0,
-        "draws": 0
-      },
-      "rapid_points": 50,
-      "blitz_points": 447,
-      "bullet_points": 0
-    },
-    {
       "username": "milesmoraleslimitless2099",
-      "points": 437,
-      "wins": 44,
-      "draws": 5,
-      "games_counted": 71,
+      "points": 158,
+      "wins": 17,
+      "draws": 3,
+      "games_counted": 35,
       "games_skipped_opponent_cap": 0,
       "avatar": "https://images.chesscomfiles.com/uploads/v1/user/521706867.ebb1e1e0.200x200o.554954744e15.jpg",
       "rapid": {
-        "points": 65,
-        "wins": 4,
-        "draws": 1
+        "points": 75,
+        "wins": 5,
+        "draws": 0
       },
       "blitz": {
-        "points": 372,
-        "wins": 40,
-        "draws": 4
+        "points": 66,
+        "wins": 7,
+        "draws": 1
+      },
+      "bullet": {
+        "points": 17,
+        "wins": 5,
+        "draws": 2
+      },
+      "rapid_points": 75,
+      "blitz_points": 66,
+      "bullet_points": 17
+    },
+    {
+      "username": "mizutowataru",
+      "points": 130,
+      "wins": 8,
+      "draws": 2,
+      "games_counted": 17,
+      "games_skipped_opponent_cap": 0,
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/480433986.3c605f0d.200x200o.a41b63e512d7.jpg",
+      "rapid": {
+        "points": 130,
+        "wins": 8,
+        "draws": 2
+      },
+      "blitz": {
+        "points": 0,
+        "wins": 0,
+        "draws": 0
       },
       "bullet": {
         "points": 0,
         "wins": 0,
         "draws": 0
       },
-      "rapid_points": 65,
-      "blitz_points": 372,
+      "rapid_points": 130,
+      "blitz_points": 0,
       "bullet_points": 0
     },
     {
-      "username": "rifet1957",
-      "points": 360,
-      "wins": 39,
-      "draws": 1,
-      "games_counted": 98,
+      "username": "xuyen1786",
+      "points": 120,
+      "wins": 24,
+      "draws": 6,
+      "games_counted": 46,
       "games_skipped_opponent_cap": 0,
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/334274221.3f0f636b.200x200o.5361cd86480a.jpg",
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/506548327.8c023650.200x200o.3a2266bfe83f.jpg",
       "rapid": {
-        "points": 30,
-        "wins": 2,
-        "draws": 0
+        "points": 5,
+        "wins": 0,
+        "draws": 1
       },
       "blitz": {
-        "points": 327,
-        "wins": 36,
+        "points": 57,
+        "wins": 6,
         "draws": 1
       },
       "bullet": {
-        "points": 3,
-        "wins": 1,
-        "draws": 0
+        "points": 58,
+        "wins": 18,
+        "draws": 4
       },
-      "rapid_points": 30,
-      "blitz_points": 327,
-      "bullet_points": 3
+      "rapid_points": 5,
+      "blitz_points": 57,
+      "bullet_points": 58
     }
   ]
 }
